@@ -431,6 +431,7 @@ header .menu-btn {
 }
 .banner-slider {
 	padding: 285px 0 163px;
+	z-index: 1;
 }
 .main-banner-text {
 	max-width: 770px;

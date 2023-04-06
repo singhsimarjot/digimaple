@@ -342,16 +342,15 @@ header .container {
 }
 .logo {
 	float: left;
-	margin-top: 9px;
-}
+ }
 .logo img {
-    width: 219PX;
+    width: 220px;
 }
 
 nav {
 	float: left;
 	padding-left: 91px;
-	margin-top: 21px;
+	margin-top: 30px;
 }
 nav ul li {
 	display: inline-block;
@@ -368,6 +367,7 @@ nav ul li a {
 }
 .right-side-hd {
 	float: right;
+	margin-top: 10px;
 }
 .right-side-hd > span {
 	display: inline-block;

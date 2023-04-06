@@ -311,7 +311,7 @@ header.pb {
 	background:inherit;
 }
 header {
-	padding: 60px 0 50px;
+	padding: 40px 0 50px;
 	position: relative;
 	background-color: #191b27;
 }
@@ -343,6 +343,9 @@ header .container {
 .logo {
 	float: left;
 	margin-top: 9px;
+}
+.logo img {
+    width: 219PX;
 }
 
 nav {
@@ -1274,7 +1277,7 @@ footer {
 	position: fixed;
 	top: 0;
 	left: 0;
-	width: 180px;
+	width: 100px;
 	background-color: #070a11;
 	z-index: 999;
 	height: 100%;
@@ -1328,7 +1331,7 @@ footer {
 	flex: none;
 	order: 1;
 	align-self: center;
-	margin: 0px 60px;
+	margin: 0px 20px;
 }
 
 

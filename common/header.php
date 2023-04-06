@@ -43,8 +43,8 @@
 			<div class="container">
 				<div class="header-content">
 					<div class="logo">
-						<a href="index.php" title="">
-							Logo
+					<a href="index.php" title="">
+						<img src="images/digimaple.png">
 						</a>
 					</div><!--logo end-->
 					<nav>

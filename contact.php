@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -26,7 +26,7 @@
 			<h2>is loading...</h2>
 			<img src="images/loader.gif" alt="">
 		</div>
-	</div><!--preloader end-->
+	</div>
 	
 	<div class="left-sidebar">
 		<a href="#" title="" class="menu-btn">
@@ -40,7 +40,7 @@
 			<li><a href="#" title="">Linkedin</a></li>
 			<li><a href="#" title="">Behance</a></li>
 		</ul>
-	</div><!--left-sidebar end-->
+	</div>
 
 	<div class="wrapper">
 
@@ -51,14 +51,14 @@
 						<a href="index.php" title="">
 							<img src="images/logo.png" alt="">
 						</a>
-					</div><!--logo end-->
+					</div>
 					<nav>
 						<ul>
 							<li><a href="services.php" title="">Services</a></li>
 							<li><a href="cases.php" title="">Cases</a></li>
 							<li><a href="contact.php" title="">Contact us</a></li>
 						</ul>
-					</nav><!--navigation end-->
+					</nav>
 					<div class="right-side-hd">
 						<span>+1 845 631 78 49</span>
 						<a href="#" title="" class="btn-default">Get a quote</a>
@@ -71,103 +71,104 @@
 						</svg>
 					</a>
 					<div class="clearfix"></div>
-				</div><!--header-content end-->
+				</div>
 			</div>	
-		</header><!--header end-->
+		</header> -->
+<?php require 'common/header.php' ?>
 
-		<section class="pager-sec text-right bg-darky pb-75">
-			<div class="container-fluid">
-				<ul>
-					<li><a href="index.php" title="">Home</a></li>
-					<li><span>Contact us</span></li>
-				</ul>
-			</div>
-		</section><!--pager-sec end-->
+<section class="pager-sec text-right bg-darky pb-75">
+	<div class="container-fluid">
+		<ul>
+			<li><a href="index.php" title="">Home</a></li>
+			<li><span>Contact us</span></li>
+		</ul>
+	</div>
+</section><!--pager-sec end-->
 
-		<section class="sec-block2">
-			<h2 class="page-number bottom">01.</h2>
-			<div class="fixed-bg bg-darky"></div>
-			<div class="container">
-				<div class="contact-us-page">
-					<div class="row">
-						<div class="col-lg-6">
-							<div class="contact-list">
-								<div class="contact-lzt">
-									<div class="contact-icon">
-										<img src="images/c-icon1.svg" alt="">
+<section class="sec-block2">
+	<h2 class="page-number bottom">01.</h2>
+	<div class="fixed-bg bg-darky"></div>
+	<div class="container">
+		<div class="contact-us-page">
+			<div class="row">
+				<div class="col-lg-6">
+					<div class="contact-list">
+						<div class="contact-lzt">
+							<div class="contact-icon">
+								<img src="images/c-icon1.svg" alt="">
+							</div>
+							<div class="contact-nfo">
+								<h3>Address:</h3>
+								<p>#42 Bottlebrush dr,<br>Brampton, Canada</p>
+							</div>
+						</div><!--contact-lzt end-->
+						<div class="contact-lzt">
+							<div class="contact-icon">
+								<img src="images/c-icon2.svg" alt="">
+							</div>
+							<div class="contact-nfo">
+								<h3>Hit us up:</h3>
+								<span>+1 647 822 3830</span>
+								<span>info@sitename.com</span>
+							</div>
+						</div><!--contact-lzt end-->
+						<div class="contact-lzt">
+							<div class="contact-icon">
+								<img src="images/c-icon3.svg" alt="">
+							</div>
+							<div class="contact-nfo">
+								<h3>Working Schedule:</h3>
+								<p>Mon - Fri: 9 am - 6 pm Sat, Sun: Holiday</p>
+							</div>
+						</div><!--contact-lzt end-->
+					</div><!--contact-list end-->
+				</div>
+				<div class="col-lg-6">
+					<div class="contact-section-page">
+						<div class="main-banner-text title-hd wow fadeInUp" data-wow-delay="300ms">
+							<span>contact us</span>
+							<h1>Send a message <span></span></h1>
+							<p class="bdy">We always try to implement our creative ideas at the highest level. Tell us about your project and we will make it work. </p>
+						</div><!--title-hd end-->
+						<div class="contact-form wow fadeInUp" data-wow-delay="300ms">
+							<form method="post" action="#" id="contact-form">
+								<div class="response"></div>
+								<div class="row">
+									<div class="col-lg-6 col-md-6 col-sm-6">
+										<div class="input-field">
+											<input type="text" name="name" class="name" placeholder="Name">
+										</div><!--input-field end-->
 									</div>
-									<div class="contact-nfo">
-										<h3>Address:</h3>
-										<p>27 Division St, New York, NY 10002, USA</p>
+									<div class="col-lg-6 col-md-6 col-sm-6">
+										<div class="input-field">
+											<input type="text" name="email" class="email" placeholder="Email">
+										</div><!--input-field end-->
 									</div>
-								</div><!--contact-lzt end-->
-								<div class="contact-lzt">
-									<div class="contact-icon">
-										<img src="images/c-icon2.svg" alt="">
+									<div class="col-lg-12">
+										<div class="input-field">
+											<textarea name="message" placeholder="Message"></textarea>
+										</div><!--input-field end-->
 									</div>
-									<div class="contact-nfo">
-										<h3>Hit us up:</h3>
-										<span>+1 845 631 78 49</span>
-										<span>info@sitename.com</span>
-									</div>
-								</div><!--contact-lzt end-->
-								<div class="contact-lzt">
-									<div class="contact-icon">
-										<img src="images/c-icon3.svg" alt="">
-									</div>
-									<div class="contact-nfo">
-										<h3>Working Schedule:</h3>
-										<p>Mon - Fri: 9 am - 6 pm Sat, Sun: Holiday</p>
-									</div>
-								</div><!--contact-lzt end-->
-							</div><!--contact-list end-->
-						</div>
-						<div class="col-lg-6">
-							<div class="contact-section-page">
-								<div class="main-banner-text title-hd wow fadeInUp" data-wow-delay="300ms">
-									<span>contact us</span>
-									<h1>Send a message <span></span></h1>
-									<p class="bdy">We always try to implement our creative ideas at the highest level. Tell us about your project and we will make it work. </p>
-								</div><!--title-hd end-->
-								<div class="contact-form wow fadeInUp" data-wow-delay="300ms">
-									<form method="post" action="#" id="contact-form">
-	                                    <div class="response"></div>
-										<div class="row">
-											<div class="col-lg-6 col-md-6 col-sm-6">
-												<div class="input-field">
-													<input type="text" name="name" class="name" placeholder="Name">
-												</div><!--input-field end-->
-											</div>
-											<div class="col-lg-6 col-md-6 col-sm-6">
-												<div class="input-field">
-													<input type="text" name="email" class="email" placeholder="Email">
-												</div><!--input-field end-->
-											</div>
-											<div class="col-lg-12">
-												<div class="input-field">
-													<textarea name="message" placeholder="Message"></textarea>
-												</div><!--input-field end-->
-											</div>
-											<div class="col-lg-12">
-												<div class="input-field m-0">
-													<button type="button" class="btn-default" id="submit">Send message</button>
-												</div>
-											</div>
+									<div class="col-lg-12">
+										<div class="input-field m-0">
+											<button type="button" class="btn-default" id="submit">Send message</button>
 										</div>
-									</form>
-								</div><!--contact-form end-->
-							</div><!--consulation-section end-->
-						</div>
-					</div>
-				</div><!--contact-us-page end-->
+									</div>
+								</div>
+							</form>
+						</div><!--contact-form end-->
+					</div><!--consulation-section end-->
+				</div>
 			</div>
-		</section>	
+		</div><!--contact-us-page end-->
+	</div>
+</section>
 
-		<section class="map-section">
-			<iframe src="https://maps.google.com/maps?hl=en&amp;q=1%20Grafton%20Street%2C%20Dublin%2C%20Ireland+(Crope)&amp;ie=UTF8&amp;t=p&amp;z=7&amp;iwloc=B&amp;output=embed"></iframe>
-		</section>
+<section class="map-section">
+	<iframe src="https://maps.google.com/maps?hl=en&amp;q=1%20Grafton%20Street%2C%20Dublin%2C%20Ireland+(Crope)&amp;ie=UTF8&amp;t=p&amp;z=7&amp;iwloc=B&amp;output=embed"></iframe>
+</section>
 
-		<footer>
+<!-- <footer>
 			<div class="container">
 				<div class="top-footer">
 					<div class="row">
@@ -177,13 +178,13 @@
 									<span>newsletter</span>
 									<h1>be always <br /> in touch <span></span></h1>
 									<p class="bdy">We are grateful to know you are interested in our content and services. Subscribe</p>
-								</div><!--title-hd end-->
+								</div>
 								<form class="newsletter-form">
 									<input type="email" name="email" placeholder="Email">
 									<button type="submit"><img src="images/send.svg" alt=""></button>
 								</form>
 								<div class="clearfix"></div>
-							</div><!--tp-contact end-->
+							</div>
 						</div>
 						<div class="col-lg-6">
 							<div class="testimonial-sec wow fadeInDown" data-wow-delay="300ms">
@@ -196,49 +197,49 @@
 										<span>CEO at Crope Design Company</span>
 									</div>
 								</div>
-								<p>We never give up. Сhallenges make us stronger and more professional. Keep in mind. Beware ;)</p>
+								<p>We never give up. Сhallenges make us stronger and more professional. Keep in mind. Beware ;</p>
 								<img src="images/sing.png" alt="">
-							</div><!--testimonial-sec end-->
+							</div>
 							<div class="clearfix"></div>
 						</div>
 					</div>
-				</div><!--top-footer end-->
+				</div>
 				<div class="bottom-footer">
 					<div class="row">
 						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 							<div class="widget widget-about wow fadeInUp" data-wow-delay="300ms">
 								<img src="images/logo.png" alt="">
 								<p>Copyright © 2020 Crope.</p>
-							</div><!--widget-about end-->
+							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 							<div class="widget widget-para wow fadeInDown" data-wow-delay="600ms">
 								<h3 class="widget-title">Working hours:</h3>
 								<p>Mon - Fri: 9 am - 6 pm Sat, Sun: Holiday</p>
-							</div><!--widget-para end-->
+							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 							<div class="widget widget-para wow fadeInUp" data-wow-delay="900ms">
 								<h3 class="widget-title">Address:</h3>
 								<p>27 Division St, New York, NY 10002, USA</p>
-							</div><!--widget-para end-->
+							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 							<div class="widget widget-para wow fadeInDown" data-wow-delay="1200ms">
 								<h3 class="widget-title">Hit us up:</h3>
 								<span>+1 845 631 78 49</span>
 								<p>info@sitename.com</p>
-							</div><!--widget-para end-->
+							</div>
 						</div>
 					</div>
-				</div><!--bottom-footer end-->
+				</div>
 			</div>
-		</footer><!--footer end-->
+		</footer> -->
 
 
-	</div><!--wrapper end-->
-	<div class="clearfix"></div>
-
+</div><!--wrapper end-->
+<div class="clearfix"></div>
+<?php require 'common/footer.php' ?>
 
 <script src="js/jquery.min.js"></script>
 <script src="js/popper.js"></script>
@@ -247,6 +248,6 @@
 <script src="js/script.js"></script>
 
 
-</body>
+<!-- </body>
 
-</html>
+</html> -->

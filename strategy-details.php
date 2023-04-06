@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -27,7 +27,7 @@
 			<h2>is loading...</h2>
 			<img src="images/loader.gif" alt="">
 		</div>
-	</div><!--preloader end-->
+	</div>
 
 	<div class="left-sidebar">
 		<a href="#" title="" class="menu-btn">
@@ -47,7 +47,7 @@
 			<li><a href="#" title="">Linkedin</a></li>
 			<li><a href="#" title="">Behance</a></li>
 		</ul>
-	</div><!--left-sidebar end-->
+	</div>
 
 	<div class="wrapper">
 
@@ -58,14 +58,14 @@
 						<a href="index.php" title="">
 							<img src="images/logo.png" alt="">
 						</a>
-					</div><!--logo end-->
+					</div>
 					<nav>
 						<ul>
 							<li><a href="services.php" title="">Services</a></li>
 							<li><a href="cases.php" title="">Cases</a></li>
 							<li><a href="contact.php" title="">Contact us</a></li>
 						</ul>
-					</nav><!--navigation end-->
+					</nav>
 					<div class="right-side-hd">
 						<span>+1 845 631 78 49</span>
 						<a href="#" title="" class="btn-default">Get a quote</a>
@@ -84,245 +84,246 @@
 						</svg>
 					</a>
 					<div class="clearfix"></div>
-				</div><!--header-content end-->
-			</div>
-		</header><!--header end-->
-
-		<section class="pager-sec text-right pb-75 dark-bg">
-			<div class="container-fluid">
-				<ul>
-					<li><a href="index.php" title="">Home</a></li>
-					<li><a href="services.php" title="">Services</a></li>
-					<li><span>Service Details</span></li>
-				</ul>
-			</div>
-		</section><!--pager-sec end-->
-
-		<section class="sec-block p-0">
-			<div class="fixed-bg dark-bg"></div>
-			<div class="page-content">
-				<div class="fixed-bg bg9"></div>
-				<h2 class="page-number">01.</h2>
-				<div class="container">
-					<div class="main-banner-text title-hd max-width-80">
-						<span>our services</span>
-						<h1>Marketing Strategy <span></span></h1>
-					</div><!--main-banner-text end-->
-					<div class="service-details pb-0">
-						<div class="row">
-							<div class="col-lg-9">
-								<div class="service-details-content">
-									<img src="./images/marketing.jpg" alt="" class="img-fluid">
-									<p>Marketing strategy is an essential component of every organisation since it
-										assists in identifying and reaching target consumers, increasing brand
-										awareness, and increasing sales. A well-planned marketing strategy incorporates
-										a variety of strategies, such as advertising, content marketing, social media,
-										and email marketing, that are targeted to a company's unique requirements and
-										goals. We recognise the significance of a great marketing approach. We
-										collaborate closely with our customers to create and implement successful
-										marketing programmes that address their specific goals and objectives. We start
-										with market research to better understand the target audience, competitors, and
-										industry trends. We then collaborate with our customers to find their unique
-										selling features and create messaging that is appealing to their target
-										demographic.</p>
-									<h3>working process</h3>
-									<div class="row">
-										<div class="col-lg-4">
-											<div class="wk-text">
-												<span>step 1</span>
-												<h3>Research and Analysis</h3>
-												<p>We begin by thoroughly researching our client's business, target
-													audience, competitors, and industry trends.</p>
-											</div><!--wk-text end-->
-										</div>
-										<div class="col-lg-4">
-											<div class="wk-text">
-												<span>step 2</span>
-												<h3>Strategy Development</h3>
-												<p>We are working on creating a thorough marketing strategy that will
-													describe our suggested approaches and action plan.</p>
-											</div><!--wk-text end-->
-										</div>
-										<div class="col-lg-4">
-											<div class="wk-text">
-												<span>step 3</span>
-												<h3>Implementation & Reporting</h3>
-												<p>We begin putting the strategy's tactics into action. Our clients
-													receive frequent reports from us.</p>
-											</div><!--wk-text end-->
-										</div>
-									</div>
-									<p> After focusing on all the aspect of the marketing strategy. our working process
-										for marketing strategy development is designed to ensure that we deliver
-										customized solutions that meet our clients' unique needs and objectives.</p>
-
-									<p>When it comes to developing a marketing strategy ,there are several key aspects
-										to consider. Here are some key areas to focus on:
-									</p>
-									<ul class="sv-links">
-										<li>Audience and Buyer Personas</li>
-										<li>Data services</li>
-										<li>Messaging and Positioning</li>
-										<li>Goals & Objectives</li>
-									</ul>
-								</div><!--service-details-content end-->
-							</div>
-							<div class="col-lg-3">
-								<div class="sidebar">
-									<div class="widget widget-categories">
-										<ul>
-											<li><a href="design-detail.php" title="">UI/UX and Brand</a></li>
-											<li><a href="sso-detail.php" title="">SEO & SMM</a></li>
-											<li><a href="app-dev-details.php" title="">App development</a></li>
-											<li><a href="web-dev-details.php" title="">web development</a></li>
-											<li><a href="e-com-details.php" title="">e - commerce</a></li>
-											<li><a href="strategy-details.php" title="">Marketing Strategy</a></li>
-										</ul>
-									</div><!--widget-categories end-->
-									<div class="widget widget-help">
-										<h3>How can we help you?</h3>
-										<p>Don’t know where to start? We’ll help you.</p>
-										<a href="contact.php" title="" class="btn-default2">contact us</a>
-									</div><!--widget-help end-->
-									<div class="widget widget-newslettter">
-										<h3>Newsletter</h3>
-										<form>
-											<input type="email" name="email" placeholder="Email">
-											<button type="submit"><img src="images/vector.svg" alt=""></button>
-										</form>
-										<ul class="lang-slct">
-											<li><a href="#" title="">fb</a></li>
-											<li><a href="#" title="">lin</a></li>
-											<li><a href="#" title="">inst</a></li>
-										</ul>
-									</div><!--widget-newslettter end-->
-								</div><!--sidebar end-->
-							</div>
-						</div>
-					</div><!--service-details end-->
 				</div>
-			</div><!--about-in-details end-->
-		</section><!--about_us_section end-->
-
-		<section class="sec-block">
-			<div class="fixed-bg bg7"></div>
-			<h2 class="page-number">02.</h2>
-			<div class="container">
-				<div class="main-banner-text title-hd wow fadeInUp mgb-100" data-wow-delay="300ms">
-					<span>how much does it cost</span>
-					<h1>prices packages <span></span></h1>
-					<p class="bdy">We’ve got a lot of awards for our products and services that became popular in the
-						world.</p>
-				</div><!--title-hd end-->
-				<div class="prices-section text-center">
-					<div class="row">
-						<div class="col-lg-4 col-md-6 col-sm-6">
-							<div class="price-col">
-								<div class="price-head">
-									<h4>Basic</h4>
-									<h2><sup>$</sup>479<sup>.99</sup></h2>
-									<span>per month</span>
-								</div>
-								<ul>
-									<li> Customized Store Design</li>
-									<li> jQuery Rotating Banner</li>
-									<li> Interactive Menu</li>
-									<li> Inquiry Form</li>
-									<li> Responsive Design</li>
-								</ul>
-								<a href="#" title="" class="btn-default">Buy Now</a>
-							</div><!--price-col end-->
-						</div>
-						<div class="col-lg-4 col-md-6 col-sm-6">
-							<div class="price-col active">
-								<div class="price-head">
-									<h4>Corporate</h4>
-									<h2><sup>$</sup>779<sup>.99</sup></h2>
-									<span>per month</span>
-								</div>
-								<ul>
-									<li>Basic plan</li>
-									<li> Design prototyping</li>
-									<li> Mobile Menu</li>
-									<li> Competitor analysis</li>
-									<li>Offer Pop-Up Windows</li>
-								</ul>
-								<a href="#" title="" class="btn-default">Buy Now</a>
-							</div><!--price-col end-->
-						</div>
-						<div class="col-lg-4 col-md-6 col-sm-6">
-							<div class="price-col">
-								<div class="price-head">
-									<h4>Business</h4>
-									<h2><sup>$</sup>989<sup>.99</sup></h2>
-									<span>per month</span>
-								</div>
-								<ul>
-									<li>Corporatre plan</li>
-									<li> Subscription Pages</li>
-									<li> Unlimited Web Space</li>
-									<li> FREE Site Building Tools</li>
-									<li>24/7 Support</li>
-								</ul>
-								<a href="#" title="" class="btn-default">Buy Now</a>
-							</div><!--price-col end-->
-						</div>
-					</div>
-				</div><!--prices-section end-->
 			</div>
-		</section>
+		</header> -->
 
-		<section class="sec-block">
-			<div class="fixed-bg bg4"></div>
-			<h2 class="page-number">03.</h2>
-			<div class="container">
-				<div class="section-head">
-					<div class="main-banner-text title-hd wow fadeInUp" data-wow-delay="300ms">
-						<span>portfolio</span>
-						<h1>Related cases <span></span></h1>
-						<p class="bdy">We always try to implement our creative ideas at the highest level. You can see
-							it by looking at our portfolio.</p>
-					</div><!--title-hd end-->
-					<a href="cases.php" title="" class="btn-default2">view all cases <img src="images/icon4.svg"
-							alt=""></a>
-					<div class="clearfix"></div>
+<?php require 'common/header.php' ?>
+
+<section class="pager-sec text-right pb-75 dark-bg">
+	<div class="container-fluid">
+		<ul>
+			<li><a href="index.php" title="">Home</a></li>
+			<li><a href="services.php" title="">Services</a></li>
+			<li><span>Service Details</span></li>
+		</ul>
+	</div>
+</section><!--pager-sec end-->
+
+<section class="sec-block p-0">
+	<div class="fixed-bg dark-bg"></div>
+	<div class="page-content">
+		<div class="fixed-bg bg9"></div>
+		<h2 class="page-number">01.</h2>
+		<div class="container">
+			<div class="main-banner-text title-hd max-width-80">
+				<span>our services</span>
+				<h1>Marketing Strategy <span></span></h1>
+			</div><!--main-banner-text end-->
+			<div class="service-details pb-0">
+				<div class="row">
+					<div class="col-lg-9">
+						<div class="service-details-content">
+							<img src="./images/marketing.jpg" alt="" class="img-fluid">
+							<p>Marketing strategy is an essential component of every organisation since it
+								assists in identifying and reaching target consumers, increasing brand
+								awareness, and increasing sales. A well-planned marketing strategy incorporates
+								a variety of strategies, such as advertising, content marketing, social media,
+								and email marketing, that are targeted to a company's unique requirements and
+								goals. We recognise the significance of a great marketing approach. We
+								collaborate closely with our customers to create and implement successful
+								marketing programmes that address their specific goals and objectives. We start
+								with market research to better understand the target audience, competitors, and
+								industry trends. We then collaborate with our customers to find their unique
+								selling features and create messaging that is appealing to their target
+								demographic.</p>
+							<h3>working process</h3>
+							<div class="row">
+								<div class="col-lg-4">
+									<div class="wk-text">
+										<span>step 1</span>
+										<h3>Research and Analysis</h3>
+										<p>We begin by thoroughly researching our client's business, target
+											audience, competitors, and industry trends.</p>
+									</div><!--wk-text end-->
+								</div>
+								<div class="col-lg-4">
+									<div class="wk-text">
+										<span>step 2</span>
+										<h3>Strategy Development</h3>
+										<p>We are working on creating a thorough marketing strategy that will
+											describe our suggested approaches and action plan.</p>
+									</div><!--wk-text end-->
+								</div>
+								<div class="col-lg-4">
+									<div class="wk-text">
+										<span>step 3</span>
+										<h3>Implementation & Reporting</h3>
+										<p>We begin putting the strategy's tactics into action. Our clients
+											receive frequent reports from us.</p>
+									</div><!--wk-text end-->
+								</div>
+							</div>
+							<p> After focusing on all the aspect of the marketing strategy. our working process
+								for marketing strategy development is designed to ensure that we deliver
+								customized solutions that meet our clients' unique needs and objectives.</p>
+
+							<p>When it comes to developing a marketing strategy ,there are several key aspects
+								to consider. Here are some key areas to focus on:
+							</p>
+							<ul class="sv-links">
+								<li>Audience and Buyer Personas</li>
+								<li>Data services</li>
+								<li>Messaging and Positioning</li>
+								<li>Goals & Objectives</li>
+							</ul>
+						</div><!--service-details-content end-->
+					</div>
+					<div class="col-lg-3">
+						<div class="sidebar">
+							<div class="widget widget-categories">
+								<ul>
+									<li><a href="design-detail.php" title="">UI/UX and Brand</a></li>
+									<li><a href="sso-detail.php" title="">SEO & SMM</a></li>
+									<li><a href="app-dev-details.php" title="">App development</a></li>
+									<li><a href="web-dev-details.php" title="">web development</a></li>
+									<li><a href="e-com-details.php" title="">e - commerce</a></li>
+									<li><a href="strategy-details.php" title="">Marketing Strategy</a></li>
+								</ul>
+							</div><!--widget-categories end-->
+							<div class="widget widget-help">
+								<h3>How can we help you?</h3>
+								<p>Don’t know where to start? We’ll help you.</p>
+								<a href="contact.php" title="" class="btn-default2">contact us</a>
+							</div><!--widget-help end-->
+							<div class="widget widget-newslettter">
+								<h3>Newsletter</h3>
+								<form>
+									<input type="email" name="email" placeholder="Email">
+									<button type="submit"><img src="images/vector.svg" alt=""></button>
+								</form>
+								<ul class="lang-slct">
+									<li><a href="#" title="">fb</a></li>
+									<li><a href="#" title="">lin</a></li>
+									<li><a href="#" title="">inst</a></li>
+								</ul>
+							</div><!--widget-newslettter end-->
+						</div><!--sidebar end-->
+					</div>
 				</div>
-				<div class="pft-items">
-					<div class="row">
-						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-							<div class="pft-item wow fadeInUp" data-wow-delay="300ms">
-								<img src="https://via.placeholder.com/380x490" alt="">
-								<div class="figcaption">
-									<h2><a href="case-work.php" title="">Web site design for curious company</a></h2>
-									<a href="case-work.php" title=""><img src="images/icon9.svg" alt=""></a>
-								</div><!--figcaption end-->
-							</div><!--pft-item end-->
+			</div><!--service-details end-->
+		</div>
+	</div><!--about-in-details end-->
+</section><!--about_us_section end-->
+
+<section class="sec-block">
+	<div class="fixed-bg bg7"></div>
+	<h2 class="page-number">02.</h2>
+	<div class="container">
+		<div class="main-banner-text title-hd wow fadeInUp mgb-100" data-wow-delay="300ms">
+			<span>how much does it cost</span>
+			<h1>prices packages <span></span></h1>
+			<p class="bdy">We’ve got a lot of awards for our products and services that became popular in the
+				world.</p>
+		</div><!--title-hd end-->
+		<div class="prices-section text-center">
+			<div class="row">
+				<div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="price-col">
+						<div class="price-head">
+							<h4>Basic</h4>
+							<h2><sup>$</sup>479<sup>.99</sup></h2>
+							<span>per month</span>
 						</div>
-						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-							<div class="pft-item wow fadeInUp" data-wow-delay="600ms">
-								<img src="https://via.placeholder.com/380x490" alt="">
-								<div class="figcaption">
-									<h2><a href="case-work.php" title="">Web site design for curious company</a></h2>
-									<a href="case-work.php" title=""><img src="images/icon9.svg" alt=""></a>
-								</div><!--figcaption end-->
-							</div><!--pft-item end-->
+						<ul>
+							<li> Customized Store Design</li>
+							<li> jQuery Rotating Banner</li>
+							<li> Interactive Menu</li>
+							<li> Inquiry Form</li>
+							<li> Responsive Design</li>
+						</ul>
+						<a href="#" title="" class="btn-default">Buy Now</a>
+					</div><!--price-col end-->
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="price-col active">
+						<div class="price-head">
+							<h4>Corporate</h4>
+							<h2><sup>$</sup>779<sup>.99</sup></h2>
+							<span>per month</span>
 						</div>
-						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
-							<div class="pft-item wow fadeInUp" data-wow-delay="900ms">
-								<img src="https://via.placeholder.com/380x490" alt="">
-								<div class="figcaption">
-									<h2><a href="case-work.php" title="">Web site design for curious company</a></h2>
-									<a href="case-work.php" title=""><img src="images/icon9.svg" alt=""></a>
-								</div><!--figcaption end-->
-							</div><!--pft-item end-->
+						<ul>
+							<li>Basic plan</li>
+							<li> Design prototyping</li>
+							<li> Mobile Menu</li>
+							<li> Competitor analysis</li>
+							<li>Offer Pop-Up Windows</li>
+						</ul>
+						<a href="#" title="" class="btn-default">Buy Now</a>
+					</div><!--price-col end-->
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="price-col">
+						<div class="price-head">
+							<h4>Business</h4>
+							<h2><sup>$</sup>989<sup>.99</sup></h2>
+							<span>per month</span>
 						</div>
-					</div>
-				</div><!--pft-items end-->
+						<ul>
+							<li>Corporatre plan</li>
+							<li> Subscription Pages</li>
+							<li> Unlimited Web Space</li>
+							<li> FREE Site Building Tools</li>
+							<li>24/7 Support</li>
+						</ul>
+						<a href="#" title="" class="btn-default">Buy Now</a>
+					</div><!--price-col end-->
+				</div>
 			</div>
-		</section><!--case-studies-section end-->
+		</div><!--prices-section end-->
+	</div>
+</section>
+
+<section class="sec-block">
+	<div class="fixed-bg bg4"></div>
+	<h2 class="page-number">03.</h2>
+	<div class="container">
+		<div class="section-head">
+			<div class="main-banner-text title-hd wow fadeInUp" data-wow-delay="300ms">
+				<span>portfolio</span>
+				<h1>Related cases <span></span></h1>
+				<p class="bdy">We always try to implement our creative ideas at the highest level. You can see
+					it by looking at our portfolio.</p>
+			</div><!--title-hd end-->
+			<a href="cases.php" title="" class="btn-default2">view all cases <img src="images/icon4.svg" alt=""></a>
+			<div class="clearfix"></div>
+		</div>
+		<div class="pft-items">
+			<div class="row">
+				<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+					<div class="pft-item wow fadeInUp" data-wow-delay="300ms">
+						<img src="https://via.placeholder.com/380x490" alt="">
+						<div class="figcaption">
+							<h2><a href="case-work.php" title="">Web site design for curious company</a></h2>
+							<a href="case-work.php" title=""><img src="images/icon9.svg" alt=""></a>
+						</div><!--figcaption end-->
+					</div><!--pft-item end-->
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+					<div class="pft-item wow fadeInUp" data-wow-delay="600ms">
+						<img src="https://via.placeholder.com/380x490" alt="">
+						<div class="figcaption">
+							<h2><a href="case-work.php" title="">Web site design for curious company</a></h2>
+							<a href="case-work.php" title=""><img src="images/icon9.svg" alt=""></a>
+						</div><!--figcaption end-->
+					</div><!--pft-item end-->
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-6 col-12">
+					<div class="pft-item wow fadeInUp" data-wow-delay="900ms">
+						<img src="https://via.placeholder.com/380x490" alt="">
+						<div class="figcaption">
+							<h2><a href="case-work.php" title="">Web site design for curious company</a></h2>
+							<a href="case-work.php" title=""><img src="images/icon9.svg" alt=""></a>
+						</div><!--figcaption end-->
+					</div><!--pft-item end-->
+				</div>
+			</div>
+		</div><!--pft-items end-->
+	</div>
+</section><!--case-studies-section end-->
 
 
-		<footer class="no-bg">
+<!-- <footer class="no-bg">
 			<div class="container">
 				<div class="bottom-footer">
 					<div class="row">
@@ -330,45 +331,46 @@
 							<div class="widget widget-about wow fadeInUp" data-wow-delay="300ms">
 								<img src="images/logo.png" alt="">
 								<p>Copyright © 2020 Crope.</p>
-							</div><!--widget-about end-->
+							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 							<div class="widget widget-para wow fadeInDown" data-wow-delay="600ms">
 								<h3 class="widget-title">Working hours:</h3>
 								<p>Mon - Fri: 9 am - 6 pm Sat, Sun: Holiday</p>
-							</div><!--widget-para end-->
+							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 							<div class="widget widget-para wow fadeInUp" data-wow-delay="900ms">
 								<h3 class="widget-title">Address:</h3>
 								<p>27 Division St, New York, NY 10002, USA</p>
-							</div><!--widget-para end-->
+							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 							<div class="widget widget-para wow fadeInDown" data-wow-delay="1200ms">
 								<h3 class="widget-title">Hit us up:</h3>
 								<span>+1 845 631 78 49</span>
 								<p>info@sitename.com</p>
-							</div><!--widget-para end-->
+							</div>
 						</div>
 					</div>
-				</div><!--bottom-footer end-->
+				</div>
 			</div>
-		</footer><!--footer end-->
+		</footer> -->
 
 
-	</div><!--wrapper end-->
-	<div class="clearfix"></div>
+</div><!--wrapper end-->
+<div class="clearfix"></div>
+
+<?php require 'common/footer.php' ?>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/popper.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/placeholdem.min.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/script.js"></script>
 
 
-	<script src="js/jquery.min.js"></script>
-	<script src="js/popper.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/placeholdem.min.js"></script>
-	<script src="js/wow.min.js"></script>
-	<script src="js/script.js"></script>
+<!-- </body>
 
-
-</body>
-
-</html>
+</html> -->

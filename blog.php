@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -26,7 +26,7 @@
 			<h2>is loading...</h2>
 			<img src="images/loader.gif" alt="">
 		</div>
-	</div><!--preloader end-->
+	</div>
 	
 	<div class="left-sidebar">
 		<a href="#" title="" class="menu-btn">
@@ -40,25 +40,25 @@
 			<li><a href="#" title="">Linkedin</a></li>
 			<li><a href="#" title="">Behance</a></li>
 		</ul>
-	</div><!--left-sidebar end-->
+	</div> -->
+<?php require 'common/header.php' ?>
+<!-- <div class="wrapper"> -->
 
-	<div class="wrapper">
-
-		<header class="black-bg">
+<!-- <header class="black-bg">
 			<div class="container">
 				<div class="header-content">
 					<div class="logo">
 						<a href="index.php" title="">
 							<img src="images/logo.png" alt="">
 						</a>
-					</div><!--logo end-->
+					</div>
 					<nav>
 						<ul>
 							<li><a href="services.php" title="">Services</a></li>
 							<li><a href="cases.php" title="">Cases</a></li>
 							<li><a href="contact.php" title="">Contact us</a></li>
 						</ul>
-					</nav><!--navigation end-->
+					</nav>
 					<div class="right-side-hd">
 						<span>+1 845 631 78 49</span>
 						<a href="#" title="" class="btn-default">Get a quote</a>
@@ -71,118 +71,118 @@
 						</svg>
 					</a>
 					<div class="clearfix"></div>
-				</div><!--header-content end-->
-			</div>	
-		</header><!--header end-->
-	
-
-		<section class="pager-sec text-right bg-0 pb-75">
-			<div class="container-fluid">
-				<ul>
-					<li><a href="index.php" title="">Home</a></li>
-					<li><span>blog</span></li>
-				</ul>
-			</div>
-		</section><!--pager-sec end-->
-
-		<section class="black-bg">
-			<div class="page-content">
-				<div class="fixed-bg bg7"></div>
-				<h2 class="page-number">01.</h2>
-				<div class="container">
-					<div class="main-banner-text mw-100 title-hd wow fadeInUp mgb-100" data-wow-delay="300ms">
-						<span>blog</span>
-						<h1>articles & news at crope</h1>
-						<p>You may be interested in our technologies. We want to share more helpful infomation with you about our digital life and methods.</p>
-					</div><!--title-hd end-->
-					<div class="blog-page">
-						<div class="row">
-							<div class="col-lg-6 col-md-6 col-sm-6">
-								<div class="blog_post main">
-									<div class="blog-thumbnail">
-										<img src="https://via.placeholder.com/555x500" alt="">
-									</div><!--blog-thumbnail end-->
-									<div class="blog_info">
-										<ul class="meta">
-											<li>
-												<span class="category">Corporate</span>
-											</li>
-											<li>
-												<span>Apr 06, 2020</span>
-											</li>
-										</ul>
-										<h2 class="post-title"><a href="blog-single.php" title="">Best 20 useful tools for people who like to spend time in ...</a></h2>
-										<a href="blog-single.php" title=""><img src="images/icon9.svg" alt=""></a>
-									</div>
-								</div><!--blog end-->
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-6">
-								<div class="blog_post main">
-									<div class="blog-thumbnail">
-										<img src="https://via.placeholder.com/555x500" alt="">
-									</div><!--blog-thumbnail end-->
-									<div class="blog_info">
-										<ul class="meta">
-											<li>
-												<span class="category">Web</span>
-											</li>
-											<li>
-												<span>Apr 06, 2020</span>
-											</li>
-										</ul>
-										<h2 class="post-title"><a href="blog-single.php" title="">Where to find clients and how to develop cool products</a></h2>
-										<a href="blog-single.php" title=""><img src="images/icon9.svg" alt=""></a>
-									</div>
-								</div><!--blog end-->
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-6">
-								<div class="blog_post main">
-									<div class="blog-thumbnail">
-										<img src="https://via.placeholder.com/555x500" alt="">
-									</div><!--blog-thumbnail end-->
-									<div class="blog_info">
-										<ul class="meta">
-											<li>
-												<span class="category">Development</span>
-											</li>
-											<li>
-												<span>Apr 06, 2020</span>
-											</li>
-										</ul>
-										<h2 class="post-title"><a href="blog-single.php" title="">If you want to learn more about design look at this</a></h2>
-										<a href="blog-single.php" title=""><img src="images/icon9.svg" alt=""></a>
-									</div>
-								</div><!--blog end-->
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-6">
-								<div class="blog_post main">
-									<div class="blog-thumbnail">
-										<img src="https://via.placeholder.com/555x500" alt="">
-									</div><!--blog-thumbnail end-->
-									<div class="blog_info">
-										<ul class="meta">
-											<li>
-												<span class="category">Interface</span>
-											</li>
-											<li>
-												<span>Apr 06, 2020</span>
-											</li>
-										</ul>
-										<h2 class="post-title"><a href="blog-single.php" title="">Best 20 useful tools for people who like to spend time in drawing</a></h2>
-										<a href="blog-single.php" title=""><img src="images/icon9.svg" alt=""></a>
-									</div>
-								</div><!--blog end-->
-							</div>
-						</div>
-						<div class="full-div w-100 text-center mt-40">
-							<a href="#" title="" class="btn-default">Load More</a>
-						</div>
-					</div><!--blog-page end-->
 				</div>
-			</div><!--about-in-details end-->
-		</section><!--about_us_section end-->
+			</div>	
+		</header> -->
 
-		<footer class="gradient-bg">
+
+<section class="pager-sec text-right bg-0 pb-75">
+	<div class="container-fluid">
+		<ul>
+			<li><a href="index.php" title="">Home</a></li>
+			<li><span>blog</span></li>
+		</ul>
+	</div>
+</section><!--pager-sec end-->
+
+<section class="black-bg">
+	<div class="page-content">
+		<div class="fixed-bg bg7"></div>
+		<h2 class="page-number">01.</h2>
+		<div class="container">
+			<div class="main-banner-text mw-100 title-hd wow fadeInUp mgb-100" data-wow-delay="300ms">
+				<span>blog</span>
+				<h1>articles & news at crope</h1>
+				<p>You may be interested in our technologies. We want to share more helpful infomation with you about our digital life and methods.</p>
+			</div><!--title-hd end-->
+			<div class="blog-page">
+				<div class="row">
+					<div class="col-lg-6 col-md-6 col-sm-6">
+						<div class="blog_post main">
+							<div class="blog-thumbnail">
+								<img src="https://via.placeholder.com/555x500" alt="">
+							</div><!--blog-thumbnail end-->
+							<div class="blog_info">
+								<ul class="meta">
+									<li>
+										<span class="category">Corporate</span>
+									</li>
+									<li>
+										<span>Apr 06, 2020</span>
+									</li>
+								</ul>
+								<h2 class="post-title"><a href="blog-single.php" title="">Best 20 useful tools for people who like to spend time in ...</a></h2>
+								<a href="blog-single.php" title=""><img src="images/icon9.svg" alt=""></a>
+							</div>
+						</div><!--blog end-->
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-6">
+						<div class="blog_post main">
+							<div class="blog-thumbnail">
+								<img src="https://via.placeholder.com/555x500" alt="">
+							</div><!--blog-thumbnail end-->
+							<div class="blog_info">
+								<ul class="meta">
+									<li>
+										<span class="category">Web</span>
+									</li>
+									<li>
+										<span>Apr 06, 2020</span>
+									</li>
+								</ul>
+								<h2 class="post-title"><a href="blog-single.php" title="">Where to find clients and how to develop cool products</a></h2>
+								<a href="blog-single.php" title=""><img src="images/icon9.svg" alt=""></a>
+							</div>
+						</div><!--blog end-->
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-6">
+						<div class="blog_post main">
+							<div class="blog-thumbnail">
+								<img src="https://via.placeholder.com/555x500" alt="">
+							</div><!--blog-thumbnail end-->
+							<div class="blog_info">
+								<ul class="meta">
+									<li>
+										<span class="category">Development</span>
+									</li>
+									<li>
+										<span>Apr 06, 2020</span>
+									</li>
+								</ul>
+								<h2 class="post-title"><a href="blog-single.php" title="">If you want to learn more about design look at this</a></h2>
+								<a href="blog-single.php" title=""><img src="images/icon9.svg" alt=""></a>
+							</div>
+						</div><!--blog end-->
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-6">
+						<div class="blog_post main">
+							<div class="blog-thumbnail">
+								<img src="https://via.placeholder.com/555x500" alt="">
+							</div><!--blog-thumbnail end-->
+							<div class="blog_info">
+								<ul class="meta">
+									<li>
+										<span class="category">Interface</span>
+									</li>
+									<li>
+										<span>Apr 06, 2020</span>
+									</li>
+								</ul>
+								<h2 class="post-title"><a href="blog-single.php" title="">Best 20 useful tools for people who like to spend time in drawing</a></h2>
+								<a href="blog-single.php" title=""><img src="images/icon9.svg" alt=""></a>
+							</div>
+						</div><!--blog end-->
+					</div>
+				</div>
+				<div class="full-div w-100 text-center mt-40">
+					<a href="#" title="" class="btn-default">Load More</a>
+				</div>
+			</div><!--blog-page end-->
+		</div>
+	</div><!--about-in-details end-->
+</section><!--about_us_section end-->
+
+<!-- <footer class="gradient-bg">
 			<div class="container">
 				<div class="bottom-footer">
 					<div class="row">
@@ -190,36 +190,36 @@
 							<div class="widget widget-about wow fadeInUp" data-wow-delay="300ms">
 								<img src="images/logo.png" alt="">
 								<p>Copyright © 2020 Crope.</p>
-							</div><!--widget-about end-->
+							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 							<div class="widget widget-para wow fadeInDown" data-wow-delay="600ms">
 								<h3 class="widget-title">Working hours:</h3>
 								<p>Mon - Fri: 9 am - 6 pm Sat, Sun: Holiday</p>
-							</div><!--widget-para end-->
+							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 							<div class="widget widget-para wow fadeInUp" data-wow-delay="900ms">
 								<h3 class="widget-title">Address:</h3>
 								<p>27 Division St, New York, NY 10002, USA</p>
-							</div><!--widget-para end-->
+							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 							<div class="widget widget-para wow fadeInDown" data-wow-delay="1200ms">
 								<h3 class="widget-title">Hit us up:</h3>
 								<span>+1 845 631 78 49</span>
 								<p>info@sitename.com</p>
-							</div><!--widget-para end-->
+							</div>
 						</div>
 					</div>
-				</div><!--bottom-footer end-->
+				</div>
 			</div>
-		</footer><!--footer end-->
+		</footer> -->
 
 
-	</div><!--wrapper end-->
-	<div class="clearfix"></div>
-
+</div><!--wrapper end-->
+<div class="clearfix"></div>
+<?php require 'common/footer.php' ?>
 
 <script src="js/jquery.min.js"></script>
 <script src="js/popper.js"></script>
@@ -229,6 +229,6 @@
 <script src="js/script.js"></script>
 
 
-</body>
+<!-- </body>
 
-</html>
+</html> -->

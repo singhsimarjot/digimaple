@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -26,7 +26,7 @@
 			<h2>is loading...</h2>
 			<img src="images/loader.gif" alt="">
 		</div>
-	</div><!--preloader end-->
+	</div>
 	
 	<div class="left-sidebar">
 		<a href="#" title="" class="menu-btn">
@@ -40,25 +40,26 @@
 			<li><a href="#" title="">Linkedin</a></li>
 			<li><a href="#" title="">Behance</a></li>
 		</ul>
-	</div><!--left-sidebar end-->
+	</div> -->
+<?php require 'common/header.php' ?>
 
-	<div class="wrapper">
+<!-- <div class="wrapper"> -->
 
-		<header>
+<!-- <header>
 			<div class="container">
 				<div class="header-content">
 					<div class="logo">
 						<a href="index.php" title="">
 							<img src="images/logo.png" alt="">
 						</a>
-					</div><!--logo end-->
+					</div>
 					<nav>
 						<ul>
 							<li><a href="services.php" title="">Services</a></li>
 							<li><a href="cases.php" title="">Cases</a></li>
 							<li><a href="contact.php" title="">Contact us</a></li>
 						</ul>
-					</nav><!--navigation end-->
+					</nav>
 					<div class="right-side-hd">
 						<span>+1 845 631 78 49</span>
 						<a href="#" title="" class="btn-default">Get a quote</a>
@@ -71,368 +72,369 @@
 						</svg>
 					</a>
 					<div class="clearfix"></div>
-				</div><!--header-content end-->
+				</div>
 			</div>	
-		</header><!--header end-->
-	
-		<section class="pager-sec text-right dark-bg pb-75">
-			<div class="container-fluid">
-				<ul>
-					<li><a href="#" title="">Home</a></li>
-					<li><a href="#" title="">Blog</a></li>
-					<li><span>Post</span></li>
-				</ul>
-			</div>
-		</section><!--pager-sec end-->
+		</header> -->
 
-		<section class="blog-page-single">
-			<div class="page-content">
-				<div class="fixed-bg bg7 bg-without-color"></div>
-				<h2 class="page-number">01.</h2>
-				<div class="container">
-					<div class="main-banner-text mw-100 title-hd wow fadeInUp mgb-100" data-wow-delay="300ms">
-						<span>blog</span>
-						<h1>Where to find clients and how to develop cool products</h1>
-					</div><!--title-hd end-->
-					<div class="row">
-						<div class="col-lg-9 blog-single">
-							<div class="blog-post main">
-								<div class="blog-thumbnail w-100">
-									<img src="https://via.placeholder.com/828x450" alt="">
-								</div><!--blog-thumbnail end-->
-								<p class="large">Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones.</p>
-								<p>These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an "application-like" experience within a Web browser. Application software developers also must consider a long array of screen sizes, hardware specifications.</p>
-								<blockquote>
-									<p>Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. </p>
-									<h3>Marina Luidance</h3>
-									<span>Project Coordinator</span>
-								</blockquote>
-								<p>Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an "application-like" experience within a <span>Web browser</span>. Application software developers also must consider a long array of screen sizes, hardware specifications. Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an "application-like" experience within a Web browser.</p>
-								<div class="post-share-options">
-									<a href="#" title="" class="st-btn"><img src="images/share.svg" alt="">Share</a>
-									<ul class="float-right tags">
-										<li><a href="#" title="">Portfolio</a></li>
-										<li><a href="#" title="">Business</a></li>
-										<li><a href="#" title="">Creative</a></li>
-										<li><a href="#" title="">Web</a></li>
-									</ul>
-									<div class="clearfix"></div>
-								</div><!--post-share-options end-->
-							</div><!--blog-post end-->
-							<div class="author-details">
-								<div class="author-thumb">
-									<img src="https://via.placeholder.com/100x100" alt="">
-								</div>
-								<div class="author-info">
-									<h3>Tony shweekenberg</h3>
-									<p>Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. </p>
-									<ul class="lang-slct">
-										<li><a href="#" title="">facebook</a></li>
-										<li><a href="#" title="">linkedin</a></li>
-										<li><a href="#" title="">instagram</a></li>
-									</ul>
-								</div>
-							</div><!--author-details end-->
-							<div class="post-controls">
-								<div class="row">
-									<div class="col-lg-6 col-md-6 col-sm-6 col-6">
-										<div class="post-ct">
-											<a href="#" title="">prev post</a>
-											<h2><a href="#" title="">Site Development for Claros</a></h2>
-										</div><!--post-ct end-->
+<section class="pager-sec text-right dark-bg pb-75">
+	<div class="container-fluid">
+		<ul>
+			<li><a href="#" title="">Home</a></li>
+			<li><a href="#" title="">Blog</a></li>
+			<li><span>Post</span></li>
+		</ul>
+	</div>
+</section><!--pager-sec end-->
+
+<section class="blog-page-single">
+	<div class="page-content">
+		<div class="fixed-bg bg7 bg-without-color"></div>
+		<h2 class="page-number">01.</h2>
+		<div class="container">
+			<div class="main-banner-text mw-100 title-hd wow fadeInUp mgb-100" data-wow-delay="300ms">
+				<span>blog</span>
+				<h1>Where to find clients and how to develop cool products</h1>
+			</div><!--title-hd end-->
+			<div class="row">
+				<div class="col-lg-9 blog-single">
+					<div class="blog-post main">
+						<div class="blog-thumbnail w-100">
+							<img src="https://via.placeholder.com/828x450" alt="">
+						</div><!--blog-thumbnail end-->
+						<p class="large">Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones.</p>
+						<p>These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an "application-like" experience within a Web browser. Application software developers also must consider a long array of screen sizes, hardware specifications.</p>
+						<blockquote>
+							<p>Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. </p>
+							<h3>Marina Luidance</h3>
+							<span>Project Coordinator</span>
+						</blockquote>
+						<p>Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an "application-like" experience within a <span>Web browser</span>. Application software developers also must consider a long array of screen sizes, hardware specifications. Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an "application-like" experience within a Web browser.</p>
+						<div class="post-share-options">
+							<a href="#" title="" class="st-btn"><img src="images/share.svg" alt="">Share</a>
+							<ul class="float-right tags">
+								<li><a href="#" title="">Portfolio</a></li>
+								<li><a href="#" title="">Business</a></li>
+								<li><a href="#" title="">Creative</a></li>
+								<li><a href="#" title="">Web</a></li>
+							</ul>
+							<div class="clearfix"></div>
+						</div><!--post-share-options end-->
+					</div><!--blog-post end-->
+					<div class="author-details">
+						<div class="author-thumb">
+							<img src="https://via.placeholder.com/100x100" alt="">
+						</div>
+						<div class="author-info">
+							<h3>Tony shweekenberg</h3>
+							<p>Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. </p>
+							<ul class="lang-slct">
+								<li><a href="#" title="">facebook</a></li>
+								<li><a href="#" title="">linkedin</a></li>
+								<li><a href="#" title="">instagram</a></li>
+							</ul>
+						</div>
+					</div><!--author-details end-->
+					<div class="post-controls">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-sm-6 col-6">
+								<div class="post-ct">
+									<a href="#" title="">prev post</a>
+									<h2><a href="#" title="">Site Development for Claros</a></h2>
+								</div><!--post-ct end-->
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-6">
+								<div class="post-ct text-right">
+									<a href="#" title="">Next post</a>
+									<h2><a href="#" title="">SEO Optimization for Marvelius</a></h2>
+								</div><!--post-ct end-->
+							</div>
+						</div>
+					</div><!--post-controls end-->
+					<div class="related-posts-section">
+						<div class="main-banner-text title-hd style2">
+							<h1>Recent posts</h1>
+							<p>We’ve got a lot of awards for our products and services that became popular in the world.</p>
+						</div><!--main-banner-text end-->
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-sm-6 col-12">
+								<div class="blog_post main">
+									<div class="blog-thumbnail">
+										<img src="https://via.placeholder.com/555x500" alt="">
+									</div><!--blog-thumbnail end-->
+									<div class="blog_info">
+										<ul class="meta">
+											<li>
+												<span class="category">Corporate</span>
+											</li>
+											<li>
+												<span>Apr 06, 2020</span>
+											</li>
+										</ul>
+										<h2 class="post-title"><a href="#" title="">Best 20 useful tools for people who like to...</a></h2>
 									</div>
-									<div class="col-lg-6 col-md-6 col-sm-6 col-6">
-										<div class="post-ct text-right">
-											<a href="#" title="">Next post</a>
-											<h2><a href="#" title="">SEO Optimization for Marvelius</a></h2>
-										</div><!--post-ct end-->
+								</div><!--blog_post end-->
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-12">
+								<div class="blog_post main">
+									<div class="blog-thumbnail">
+										<img src="https://via.placeholder.com/555x500" alt="">
+									</div><!--blog-thumbnail end-->
+									<div class="blog_info">
+										<ul class="meta">
+											<li>
+												<span class="category">Business</span>
+											</li>
+											<li>
+												<span>Apr 06, 2020</span>
+											</li>
+										</ul>
+										<h2 class="post-title"><a href="#" title="">Best 20 useful tools for people who like to...</a></h2>
 									</div>
-								</div>
-							</div><!--post-controls end-->
-							<div class="related-posts-section">
-								<div class="main-banner-text title-hd style2">
-									<h1>Recent posts</h1>
-									<p>We’ve got a lot of awards for our products and services that became popular in the world.</p>
-								</div><!--main-banner-text end-->
-								<div class="row">
-									<div class="col-lg-6 col-md-6 col-sm-6 col-12">
-										<div class="blog_post main">
-											<div class="blog-thumbnail">
-												<img src="https://via.placeholder.com/555x500" alt="">
-											</div><!--blog-thumbnail end-->
-											<div class="blog_info">
-												<ul class="meta">
-													<li>
-														<span class="category">Corporate</span>
-													</li>
-													<li>
-														<span>Apr 06, 2020</span>
-													</li>
-												</ul>
-												<h2 class="post-title"><a href="#" title="">Best 20 useful tools for people who like to...</a></h2>
-											</div>
-										</div><!--blog_post end-->
+								</div><!--blog_post end-->
+							</div>
+						</div>
+					</div><!--related-posts-section end-->
+					<div class="comments-section">
+						<h2>comments (3)</h2>
+						<ul>
+							<li>
+								<div class="comment">
+									<div class="cm-head">
+										<img src="https://via.placeholder.com/50x50" alt="">
+										<h3>Mark Srew</h3>
+										<span>Jan 17, 2020 at 3:45pm</span>
 									</div>
-									<div class="col-lg-6 col-md-6 col-sm-6 col-12">
-										<div class="blog_post main">
-											<div class="blog-thumbnail">
-												<img src="https://via.placeholder.com/555x500" alt="">
-											</div><!--blog-thumbnail end-->
-											<div class="blog_info">
-												<ul class="meta">
-													<li>
-														<span class="category">Business</span>
-													</li>
-													<li>
-														<span>Apr 06, 2020</span>
-													</li>
-												</ul>
-												<h2 class="post-title"><a href="#" title="">Best 20 useful tools for people who like to...</a></h2>
-											</div>
-										</div><!--blog_post end-->
+									<div class="cm-info">
+										<p>Very helpful article. Now I understand how everything works. I learned new tools for myself, and now I really see that the number of sales is increasing.</p>
+										<a href="#" title="" class="reply">Reply</a>
 									</div>
-								</div>
-							</div><!--related-posts-section end-->
-							<div class="comments-section">
-								<h2>comments (3)</h2>
+								</div><!--comment end-->
 								<ul>
 									<li>
 										<div class="comment">
 											<div class="cm-head">
 												<img src="https://via.placeholder.com/50x50" alt="">
-												<h3>Mark Srew</h3>
+												<h3>Liza Weenkler</h3>
 												<span>Jan 17, 2020 at 3:45pm</span>
 											</div>
 											<div class="cm-info">
-												<p>Very helpful article. Now I understand how everything works. I learned new tools for myself, and now I really see that the number of sales is increasing.</p>
-												<a href="#" title="" class="reply">Reply</a>
-											</div>
-										</div><!--comment end-->
-										<ul>
-											<li>
-												<div class="comment">
-												<div class="cm-head">
-													<img src="https://via.placeholder.com/50x50" alt="">
-													<h3>Liza Weenkler</h3>
-													<span>Jan 17, 2020 at 3:45pm</span>
-												</div>
-												<div class="cm-info">
-													<p>After reading this post, I realized my mistakes. Now everything is much simpler and clearer. Thanks to the author for the clear information provided.</p>
-													<a href="#" title="" class="reply">Reply</a>
-												</div>
-											</div><!--comment end-->
-											</li>
-										</ul>
-									</li>
-									<li>
-										<div class="comment">
-											<div class="cm-head">
-												<img src="https://via.placeholder.com/50x50" alt="">
-												<h3>Paul Oliger</h3>
-												<span>Jan 17, 2020 at 3:45pm</span>
-											</div>
-											<div class="cm-info">
-												<p>Very helpful article. Now I understand how everything works. I learned new tools for myself, and now I really see that the number of sales is increasing.</p>
+												<p>After reading this post, I realized my mistakes. Now everything is much simpler and clearer. Thanks to the author for the clear information provided.</p>
 												<a href="#" title="" class="reply">Reply</a>
 											</div>
 										</div><!--comment end-->
 									</li>
 								</ul>
-							</div><!--comments-section end-->
-							<div class="post-comments-section">
-								<div class="main-banner-text title-hd style2">
-									<h1>Leave a reply</h1>
-									<p>Leave your comment below.</p>
-								</div><!--main-banner-text end-->
-								<form class="comment-form" id="contact-form" method="post" action="#">
-									<div class="response"></div>
-									<div class="row">
-										<div class="col-lg-4 col-md-4 col-sm-6">
-											<div class="form-group">
-												<input type="text" name="name" class="form-control name" placeholder="Name">
-											</div><!--form-group end-->
-										</div>
-										<div class="col-lg-4 col-md-4 col-sm-6">
-											<div class="form-group">
-												<input type="text" name="email" class="form-control email" placeholder="Email">
-											</div><!--form-group end-->
-										</div>
-										<div class="col-lg-4 col-md-4 col-sm-12">
-											<div class="form-group">
-												<input type="text" name="company" class="form-control" placeholder="Company">
-											</div><!--form-group end-->
-										</div>
-										<div class="col-lg-12">
-											<div class="form-group">
-												<textarea name="comment" placeholder="Your comment" class="form-control"></textarea>
-											</div><!--form-group end-->
-										</div>
-										<div class="col-lg-12">
-											<button type="button" class="btn-default" id="submit">Post comment</button>
-										</div>
+							</li>
+							<li>
+								<div class="comment">
+									<div class="cm-head">
+										<img src="https://via.placeholder.com/50x50" alt="">
+										<h3>Paul Oliger</h3>
+										<span>Jan 17, 2020 at 3:45pm</span>
 									</div>
-								</form>
-							</div><!--post-comments-section end-->
+									<div class="cm-info">
+										<p>Very helpful article. Now I understand how everything works. I learned new tools for myself, and now I really see that the number of sales is increasing.</p>
+										<a href="#" title="" class="reply">Reply</a>
+									</div>
+								</div><!--comment end-->
+							</li>
+						</ul>
+					</div><!--comments-section end-->
+					<div class="post-comments-section">
+						<div class="main-banner-text title-hd style2">
+							<h1>Leave a reply</h1>
+							<p>Leave your comment below.</p>
+						</div><!--main-banner-text end-->
+						<form class="comment-form" id="contact-form" method="post" action="#">
+							<div class="response"></div>
+							<div class="row">
+								<div class="col-lg-4 col-md-4 col-sm-6">
+									<div class="form-group">
+										<input type="text" name="name" class="form-control name" placeholder="Name">
+									</div><!--form-group end-->
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-6">
+									<div class="form-group">
+										<input type="text" name="email" class="form-control email" placeholder="Email">
+									</div><!--form-group end-->
+								</div>
+								<div class="col-lg-4 col-md-4 col-sm-12">
+									<div class="form-group">
+										<input type="text" name="company" class="form-control" placeholder="Company">
+									</div><!--form-group end-->
+								</div>
+								<div class="col-lg-12">
+									<div class="form-group">
+										<textarea name="comment" placeholder="Your comment" class="form-control"></textarea>
+									</div><!--form-group end-->
+								</div>
+								<div class="col-lg-12">
+									<button type="button" class="btn-default" id="submit">Post comment</button>
+								</div>
+							</div>
+						</form>
+					</div><!--post-comments-section end-->
+				</div>
+				<div class="col-lg-3">
+					<div class="sidebar blog-sidebar">
+						<div class="widget widget-search">
+							<form>
+								<div class="form-group">
+									<input type="text" name="search" class="form-control" placeholder="Search">
+									<button type="submit"><img src="images/search.svg" alt=""></button>
+								</div>
+							</form>
+						</div><!--widget-search end-->
+						<div class="widget widget_categories">
+							<h3 class="widget-title">Categories</h3>
+							<ul>
+								<li>
+									<div class="rb-post">
+										<div class="rb-post-img grad-overlay">
+											<img src="https://via.placeholder.com/60x60" alt="">
+										</div>
+										<div class="rb-post-info">
+											<h3><a href="#" title="">Development (15)</a></h3>
+										</div>
+									</div><!--rb-post end-->
+								</li>
+								<li>
+									<div class="rb-post">
+										<div class="rb-post-img grad-overlay">
+											<img src="https://via.placeholder.com/60x60" alt="">
+										</div>
+										<div class="rb-post-info">
+											<h3><a href="#" title="">Apps (18)</a></h3>
+										</div>
+									</div><!--rb-post end-->
+								</li>
+								<li>
+									<div class="rb-post">
+										<div class="rb-post-img grad-overlay">
+											<img src="https://via.placeholder.com/60x60" alt="">
+										</div>
+										<div class="rb-post-info">
+											<h3><a href="#" title="">Identity (11)</a></h3>
+										</div>
+									</div><!--rb-post end-->
+								</li>
+								<li>
+									<div class="rb-post">
+										<div class="rb-post-img grad-overlay">
+											<img src="https://via.placeholder.com/60x60" alt="">
+										</div>
+										<div class="rb-post-info">
+											<h3><a href="#" title="">SEO&SMM (5)</a></h3>
+										</div>
+									</div><!--rb-post end-->
+								</li>
+								<li>
+									<div class="rb-post">
+										<div class="rb-post-img grad-overlay">
+											<img src="https://via.placeholder.com/60x60" alt="">
+										</div>
+										<div class="rb-post-info">
+											<h3><a href="#" title="">UI/UX Design (21)</a></h3>
+										</div>
+									</div><!--rb-post end-->
+								</li>
+							</ul>
+						</div><!--widget-categories end-->
+						<div class="widget widget-recent-posts">
+							<h3 class="widget-title">Recent posts</h3>
+							<div class="blog-posts">
+								<div class="blog_post">
+									<div class="blog-thumbnail">
+										<img src="https://via.placeholder.com/170x170" alt="">
+									</div><!--blog-thumbnail end-->
+									<div class="blog_info">
+										<span>Jan 17, 2020</span>
+										<h2 class="post-title"><a href="#" title="">The Best Tech and Apps for Your Home Office</a></h2>
+									</div>
+								</div><!--blog_post end-->
+								<div class="blog_post">
+									<div class="blog-thumbnail">
+										<img src="https://via.placeholder.com/170x170" alt="">
+									</div><!--blog-thumbnail end-->
+									<div class="blog_info">
+										<span>Jan 17, 2020</span>
+										<h2 class="post-title"><a href="#" title="">Why Zoom Is the Best Videoconferencing ...</a></h2>
+									</div>
+								</div><!--blog_post end-->
+								<div class="clearfix"></div>
+							</div>
+						</div><!--widget-recent-posts end-->
+						<div class="widget widget-newslettter">
+							<h3>Newsletter</h3>
+							<form>
+								<input type="email" name="email" placeholder="Email">
+								<button type="submit"><img src="images/vector.svg" alt=""></button>
+							</form>
+							<ul class="lang-slct">
+								<li><a href="#" title="">fb</a></li>
+								<li><a href="#" title="">lin</a></li>
+								<li><a href="#" title="">inst</a></li>
+							</ul>
+						</div><!--widget-newsletter end-->
+						<div class="widget widget-tags">
+							<h3 class="widget-title">Tags</h3>
+							<ul class="tags">
+								<li><a href="#" title="">Portfolio</a></li>
+								<li><a href="#" title="">Business</a></li>
+								<li><a href="#" title="">Web</a></li>
+								<li><a href="#" title="">Corporate</a></li>
+								<li><a href="#" title="">Creative</a></li>
+								<li><a href="#" title="">Application</a></li>
+								<li><a href="#" title="">Development</a></li>
+								<li><a href="#" title="">Interface</a></li>
+							</ul>
+						</div><!--widget-tags end-->
+					</div><!--sidebar end-->
+				</div>
+			</div>
+		</div>
+	</div><!--about-in-details end-->
+</section><!--about_us_section end-->
+
+<!-- <footer class="gradient-bg2">
+		<div class="container">
+			<div class="bottom-footer">
+				<div class="row">
+					<div class="col-lg-3 col-md-6 col-sm-6 col-12">
+						<div class="widget widget-about wow fadeInUp" data-wow-delay="300ms">
+							<img src="images/logo.png" alt="">
+							<p>Copyright © 2020 Crope.</p>
 						</div>
-						<div class="col-lg-3">
-							<div class="sidebar blog-sidebar">
-								<div class="widget widget-search">
-									<form>
-										<div class="form-group">
-											<input type="text" name="search" class="form-control" placeholder="Search">
-											<button type="submit"><img src="images/search.svg" alt=""></button>
-										</div>
-									</form>
-								</div><!--widget-search end-->
-								<div class="widget widget_categories">
-									<h3 class="widget-title">Categories</h3>
-									<ul>
-										<li>
-											<div class="rb-post">
-												<div class="rb-post-img grad-overlay">
-													<img src="https://via.placeholder.com/60x60" alt="">
-												</div>
-												<div class="rb-post-info">
-													<h3><a href="#" title="">Development (15)</a></h3>
-												</div>
-											</div><!--rb-post end-->
-										</li>
-										<li>
-											<div class="rb-post">
-												<div class="rb-post-img grad-overlay">
-													<img src="https://via.placeholder.com/60x60" alt="">
-												</div>
-												<div class="rb-post-info">
-													<h3><a href="#" title="">Apps (18)</a></h3>
-												</div>
-											</div><!--rb-post end-->
-										</li>
-										<li>
-											<div class="rb-post">
-												<div class="rb-post-img grad-overlay">
-													<img src="https://via.placeholder.com/60x60" alt="">
-												</div>
-												<div class="rb-post-info">
-													<h3><a href="#" title="">Identity (11)</a></h3>
-												</div>
-											</div><!--rb-post end-->
-										</li>
-										<li>
-											<div class="rb-post">
-												<div class="rb-post-img grad-overlay">
-													<img src="https://via.placeholder.com/60x60" alt="">
-												</div>
-												<div class="rb-post-info">
-													<h3><a href="#" title="">SEO&SMM (5)</a></h3>
-												</div>
-											</div><!--rb-post end-->
-										</li>
-										<li>
-											<div class="rb-post">
-												<div class="rb-post-img grad-overlay">
-													<img src="https://via.placeholder.com/60x60" alt="">
-												</div>
-												<div class="rb-post-info">
-													<h3><a href="#" title="">UI/UX Design (21)</a></h3>
-												</div>
-											</div><!--rb-post end-->
-										</li>
-									</ul>
-								</div><!--widget-categories end-->
-								<div class="widget widget-recent-posts">
-									<h3 class="widget-title">Recent posts</h3>
-									<div class="blog-posts">
-										<div class="blog_post">
-											<div class="blog-thumbnail">
-												<img src="https://via.placeholder.com/170x170" alt="">
-											</div><!--blog-thumbnail end-->
-											<div class="blog_info">
-												<span>Jan 17, 2020</span>
-												<h2 class="post-title"><a href="#" title="">The Best Tech and Apps for Your Home Office</a></h2>
-											</div>
-										</div><!--blog_post end-->
-										<div class="blog_post">
-											<div class="blog-thumbnail">
-												<img src="https://via.placeholder.com/170x170" alt="">
-											</div><!--blog-thumbnail end-->
-											<div class="blog_info">
-												<span>Jan 17, 2020</span>
-												<h2 class="post-title"><a href="#" title="">Why Zoom Is the Best Videoconferencing ...</a></h2>
-											</div>
-										</div><!--blog_post end-->
-										<div class="clearfix"></div>
-									</div>
-								</div><!--widget-recent-posts end-->
-								<div class="widget widget-newslettter">
-									<h3>Newsletter</h3>
-									<form>
-										<input type="email" name="email" placeholder="Email">
-										<button type="submit"><img src="images/vector.svg" alt=""></button>
-									</form>
-									<ul class="lang-slct">
-										<li><a href="#" title="">fb</a></li>
-										<li><a href="#" title="">lin</a></li>
-										<li><a href="#" title="">inst</a></li>
-									</ul>
-								</div><!--widget-newsletter end-->
-								<div class="widget widget-tags">
-									<h3 class="widget-title">Tags</h3>
-									<ul class="tags">
-										<li><a href="#" title="">Portfolio</a></li>
-										<li><a href="#" title="">Business</a></li>
-										<li><a href="#" title="">Web</a></li>
-										<li><a href="#" title="">Corporate</a></li>
-										<li><a href="#" title="">Creative</a></li>
-										<li><a href="#" title="">Application</a></li>
-										<li><a href="#" title="">Development</a></li>
-										<li><a href="#" title="">Interface</a></li>
-									</ul>
-								</div><!--widget-tags end-->
-							</div><!--sidebar end-->
+					</div>
+					<div class="col-lg-3 col-md-6 col-sm-6 col-12">
+						<div class="widget widget-para wow fadeInDown" data-wow-delay="600ms">
+							<h3 class="widget-title">Working hours:</h3>
+							<p>Mon - Fri: 9 am - 6 pm Sat, Sun: Holiday</p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6 col-sm-6 col-12">
+						<div class="widget widget-para wow fadeInUp" data-wow-delay="900ms">
+							<h3 class="widget-title">Address:</h3>
+							<p>27 Division St, New York, NY 10002, USA</p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6 col-sm-6 col-12">
+						<div class="widget widget-para wow fadeInDown" data-wow-delay="1200ms">
+							<h3 class="widget-title">Hit us up:</h3>
+							<span>+1 845 631 78 49</span>
+							<p>info@sitename.com</p>
 						</div>
 					</div>
 				</div>
-			</div><!--about-in-details end-->
-		</section><!--about_us_section end-->
-
-		<footer class="gradient-bg2">
-			<div class="container">
-				<div class="bottom-footer">
-					<div class="row">
-						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-							<div class="widget widget-about wow fadeInUp" data-wow-delay="300ms">
-								<img src="images/logo.png" alt="">
-								<p>Copyright © 2020 Crope.</p>
-							</div><!--widget-about end-->
-						</div>
-						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-							<div class="widget widget-para wow fadeInDown" data-wow-delay="600ms">
-								<h3 class="widget-title">Working hours:</h3>
-								<p>Mon - Fri: 9 am - 6 pm Sat, Sun: Holiday</p>
-							</div><!--widget-para end-->
-						</div>
-						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-							<div class="widget widget-para wow fadeInUp" data-wow-delay="900ms">
-								<h3 class="widget-title">Address:</h3>
-								<p>27 Division St, New York, NY 10002, USA</p>
-							</div><!--widget-para end-->
-						</div>
-						<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-							<div class="widget widget-para wow fadeInDown" data-wow-delay="1200ms">
-								<h3 class="widget-title">Hit us up:</h3>
-								<span>+1 845 631 78 49</span>
-								<p>info@sitename.com</p>
-							</div><!--widget-para end-->
-						</div>
-					</div>
-				</div><!--bottom-footer end-->
 			</div>
-		</footer><!--footer end-->
+		</div>
+	</footer> -->
 
 
-	</div><!--wrapper end-->
-	<div class="clearfix"></div>
+</div><!--wrapper end-->
+<div class="clearfix"></div>
 
+<?php require 'common/footer.php' ?>
 
 <script src="js/jquery.min.js"></script>
 <script src="js/popper.js"></script>
@@ -440,7 +442,7 @@
 <script src="js/wow.min.js"></script>
 <script src="js/script.js"></script>
 
-
+<!-- 
 </body>
 
-</html>
+</html> -->

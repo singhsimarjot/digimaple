@@ -416,9 +416,18 @@ header .menu-btn {
 /* ================ MAIN BANNER ================ */
 
 .main-banner {
-	background: url(../images/bg.jpg) #121318;
 	background-repeat: no-repeat;
 	background-position: top right;
+	position:relative;
+}
+.main-banner-img{
+    position:absolute;
+    right:0;
+    bottom:0;
+    top:0;
+    height:100%;
+    z-index:0;
+    opacity:0.4;
 }
 .banner-slider {
 	padding: 285px 0 163px;

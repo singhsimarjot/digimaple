@@ -15,7 +15,7 @@
 							<button type="submit"><img src="images/send.svg" alt=""></button>
 						</form>
 						<div class="clearfix"></div>
-					</div><!--tp-contact end-->
+					</div>
 				</div>
 				<div class="col-lg-6">
 					<div class="testimonial-sec wow fadeInDown" data-wow-delay="300ms">

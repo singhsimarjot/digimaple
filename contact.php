@@ -99,7 +99,7 @@
 							</div>
 							<div class="contact-nfo">
 								<h3>Address:</h3>
-								<p>#42 Bottlebrush dr,<br>Brampton, Canada</p>
+								<p>#65 Woodvalley dr,<br>Brampton, Canada</p>
 							</div>
 						</div><!--contact-lzt end-->
 						<div class="contact-lzt">
@@ -109,7 +109,7 @@
 							<div class="contact-nfo">
 								<h3>Hit us up:</h3>
 								<span>+1 647 822 3830</span>
-								<span>info@sitename.com</span>
+								<span>hello@digimaple.ca</span>
 							</div>
 						</div><!--contact-lzt end-->
 						<div class="contact-lzt">
@@ -118,7 +118,7 @@
 							</div>
 							<div class="contact-nfo">
 								<h3>Working Schedule:</h3>
-								<p>Mon - Fri: 9 am - 6 pm Sat, Sun: Holiday</p>
+								<p>Mon - Fri: 9 am - 6 pm</p>
 							</div>
 						</div><!--contact-lzt end-->
 					</div><!--contact-list end-->
@@ -131,31 +131,8 @@
 							<p class="bdy">We always try to implement our creative ideas at the highest level. Tell us about your project and we will make it work. </p>
 						</div><!--title-hd end-->
 						<div class="contact-form wow fadeInUp" data-wow-delay="300ms">
-							<form method="post" action="#" id="contact-form">
-								<div class="response"></div>
-								<div class="row">
-									<div class="col-lg-6 col-md-6 col-sm-6">
-										<div class="input-field">
-											<input type="text" name="name" class="name" placeholder="Name">
-										</div><!--input-field end-->
-									</div>
-									<div class="col-lg-6 col-md-6 col-sm-6">
-										<div class="input-field">
-											<input type="text" name="email" class="email" placeholder="Email">
-										</div><!--input-field end-->
-									</div>
-									<div class="col-lg-12">
-										<div class="input-field">
-											<textarea name="message" placeholder="Message"></textarea>
-										</div><!--input-field end-->
-									</div>
-									<div class="col-lg-12">
-										<div class="input-field m-0">
-											<button type="button" class="btn-default" id="submit">Send message</button>
-										</div>
-									</div>
-								</div>
-							</form>
+						<?php require 'common/contactForm.php' ?>
+ 	 
 						</div><!--contact-form end-->
 					</div><!--consulation-section end-->
 				</div>

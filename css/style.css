@@ -422,6 +422,7 @@ header .menu-btn {
 	background-repeat: no-repeat;
 	background-position: top right;
 	position:relative;
+	overflow: hidden;
 }
 .main-banner-img{
     position:absolute;
@@ -430,8 +431,8 @@ header .menu-btn {
     top:0;
     height:100%;
     z-index:0;
-	left: 0;
     opacity:0.4;
+	width: 64%;
 }
 .banner-slider {
 	padding: 100px 0 163px;

@@ -19,7 +19,6 @@
 
 
 <body>
-	<?php require 'common/loader.php' ?>
 
 
 
@@ -56,7 +55,7 @@
 					</nav><!--navigation end-->
 					<div class="right-side-hd">
 						<span>+1 647 822 3830</span>
-						<a href="#" title="" class="btn-default">Get a quote</a>
+						<a href="contact.php" title="" class="btn-default">Get a quote</a>
 					</div>
 					<a href="#" title="" class="menu-btn">
 						<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">

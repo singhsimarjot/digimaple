@@ -4,74 +4,16 @@
 		<div class="banner-slide">
 			<div class="container">
 				<div class="main-banner-text">
-					<span class="wow fadeInUp" data-wow-delay="300ms">Creative ideas</span>
-					<h1 class="wow fadeInUp" data-wow-delay="450ms">Craft Design Solutions <span></span></h1>
-					<p class="wow fadeInUp" data-wow-delay="600ms">We create new technologies for your business
-						thanks to our wonderful team of professionals.</p>
-					<div class="play-video-div wow fadeInUp" data-wow-delay="800ms">
-						<div class="poly1">
-							<div class="poly2">
-								<a href="https://www.youtube.com/watch?v=FSGfN9rr78Q" title="" class="play-video html5lightbox">
-									<img src="images/icon1.svg" alt="">
-								</a>
-							</div>
-						</div>
-						<div class="pl-text">
-							<h3>About Us</h3>
-							<span>Promotion video</span>
-						</div>
-					</div>
-				</div><!--main-banner-text end-->
-			</div>
-		</div>
-		<div class="banner-slide">
-			<div class="container">
-				<div class="main-banner-text">
 					<span>Creative ideas</span>
 					<h1>Craft Design Solutions <span></span></h1>
 					<p>We create new technologies for your business thanks to our wonderful team of
 						professionals.</p>
-					<div class="play-video-div">
-						<div class="poly1">
-							<div class="poly2">
-								<a href="#" title="" class="play-video">
-									<img src="images/icon1.svg" alt="">
-								</a>
-							</div>
-						</div>
-						<div class="pl-text">
-							<h3>About Us</h3>
-							<span>Promotion video</span>
-						</div>
-					</div>
-				</div><!--main-banner-text end-->
-			</div>
-		</div><!--banner-slide end-->
-		<div class="banner-slide">
-			<div class="container">
-				<div class="main-banner-text">
-					<span>Creative ideas</span>
-					<h1>Craft Design Solutions <span></span></h1>
-					<p>We create new technologies for your business thanks to our wonderful team of
-						professionals.</p>
-					<div class="play-video-div">
-						<div class="poly1">
-							<div class="poly2">
-								<a href="#" title="" class="play-video">
-									<img src="images/icon1.svg" alt="">
-								</a>
-							</div>
-						</div>
-						<div class="pl-text">
-							<h3>About Us</h3>
-							<span>Promotion video</span>
-						</div>
-					</div>
+						<a href="/contact.php" title="" class="btn-default">Get a quote</a>
 				</div><!--main-banner-text end-->
 			</div>
 		</div><!--banner-slide end-->
 	</div><!--banner-slider end-->
-	<div class="main-banner-img">
+	<div class="main-banner-img ">
 		    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1087 1024" style="enable-background:new 0 0 1087 1024;" xml:space="preserve">
 <style type="text/css">
@@ -169,15 +111,7 @@
 	<div class="services-section">
 		<div class="container">
 			<div class="row svs-carousel">
-				<div class="col-lg-3">
-					<div class="service-col wow fadeIn" data-wow-delay="300ms">
-						<div class="svs-icon">
-							<img src="images/icon5.svg" alt="">
-						</div>
-						<h3>UI/UX and Brand Identity</h3>
-						<a href="design-detail.php" title="" class="btn-default2">read more</a>
-					</div><!--service-col end-->
-				</div>
+			 
 				<div class="col-lg-3">
 					<div class="service-col wow fadeIn" data-wow-delay="600ms">
 						<div class="svs-icon">
@@ -214,69 +148,8 @@
 						<a href="e-com-details.php" title="" class="btn-default2">read more</a>
 					</div>
 				</div>
-				<div class="col-lg-3">
-					<div class="service-col wow fadeIn" data-wow-delay="1800ms">
-						<div class="svs-icon">
-							<img src="images/icon6.svg" alt="">
-						</div>
-						<h3>Marketing Strategy</h3>
-						<a href="strategy-details.php" title="" class="btn-default2">read more</a>
-					</div><!--service-col end-->
-				</div>
-				<div class="col-lg-3">
-					<div class="service-col">
-						<div class="svs-icon">
-							<img src="images/icon5.svg" alt="">
-						</div>
-						<h3>UI/UX and Brand Identity</h3>
-						<a href="design-detail.php" title="" class="btn-default2">read more</a>
-					</div><!--service-col end-->
-				</div>
-				<div class="col-lg-3">
-					<div class="service-col">
-						<div class="svs-icon">
-							<img src="images/icon6.svg" alt="">
-						</div>
-						<h3>App Development</h3>
-						<a href="app-dev-details.php" title="" class="btn-default2">read more</a>
-					</div><!--service-col end-->
-				</div>
-				<div class="col-lg-3">
-					<div class="service-col">
-						<div class="svs-icon">
-							<img src="images/icon7.svg" alt="">
-						</div>
-						<h3>SEO & SMM Optimization</h3>
-						<a href="sso-detail.php" title="" class="btn-default2">read more</a>
-					</div><!--service-col end-->
-				</div>
-				<div class="col-lg-3">
-					<div class="service-col">
-						<div class="svs-icon">
-							<img src="images/icon8.svg" alt="">
-						</div>
-						<h3>Web Development</h3>
-						<a href="web-dev-details.php" title="" class="btn-default2">read more</a>
-					</div><!--service-col end-->
-				</div>
-				<div class="col-lg-3">
-					<div class="service-col">
-						<div class="svs-icon">
-							<img src="images/icon5.svg" alt="">
-						</div>
-						<h3>E-commerce Development</h3>
-						<a href="e-com-details.php" title="" class="btn-default2">read more</a>
-					</div><!--service-col end-->
-				</div>
-				<div class="col-lg-3">
-					<div class="service-col">
-						<div class="svs-icon">
-							<img src="images/icon6.svg" alt="">
-						</div>
-						<h3>Marketing Strategy</h3>
-						<a href="strategy-details.php" title="" class="btn-default2">read more</a>
-					</div><!--service-col end-->
-				</div>
+				 
+				 
 			</div>
 		</div>
 	</div><!--services-section end-->
@@ -293,32 +166,11 @@
 					your project and we will make it work. </p>
 			</div><!--title-hd end-->
 			<div class="contact-form wow fadeInUp" data-wow-delay="300ms">
-				<form method="post" action="#" id="contact-form">
-					<div class="response"></div>
-					<div class="row">
-						<div class="col-lg-6">
-							<div class="input-field">
-								<input type="text" name="name" class="name" placeholder="Name">
-							</div><!--input-field end-->
-						</div>
-						<div class="col-lg-6">
-							<div class="input-field">
-								<input type="text" name="email" class="email" placeholder="Email">
-							</div><!--input-field end-->
-						</div>
-						<div class="col-lg-12">
-							<div class="input-field">
-								<textarea name="message" placeholder="Message"></textarea>
-							</div><!--input-field end-->
-						</div>
-						<div class="col-lg-12">
-							<div class="input-field m-0">
-								<button type="button" class="btn-default" id="submit">Send message</button>
-							</div>
-						</div>
-					</div>
-				</form>
-			</div><!--contact-form end-->
+			<?php 
+			// require 'common/contactForm.php' 
+			?>
+ 
+			 </div><!--contact-form end-->
 		</div><!--consulation-section end-->
 	</div>
 </section>
@@ -432,77 +284,5 @@
 	</div>
 </section><!--case-studies-section end-->
 
-<section class="sec-block">
-	<div class="fixed-bg bg5"></div>
-	<h2 class="page-number">07.</h2>
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6 wow slideInLeft" data-wow-delay="300ms">
-				<div class="main-banner-text title-hd">
-					<span>recent posts</span>
-					<h1>Latest in crope <span></span></h1>
-					<p class="bdy">You may be interested in our technologies. We want to share more helpful
-						infomation with you about our digital life and methods.</p>
-				</div><!--title-hd end-->
-				<div class="blog-posts">
-					<div class="blog_post">
-						<div class="blog-thumbnail">
-							<img src="https://via.placeholder.com/170x170" alt="">
-						</div><!--blog-thumbnail end-->
-						<div class="blog_info">
-							<ul class="meta">
-								<li>
-									<span class="category">Corporate</span>
-								</li>
-								<li>
-									<span>Apr 06, 2020</span>
-								</li>
-							</ul>
-							<h2 class="post-title"><a href="blog-single.php" title="">Where to find clients and
-									how to develop cool ...</a></h2>
-							<a href="blog-single.php" title="" class="btn-default2">read more</a>
-						</div>
-					</div><!--blog_post end-->
-					<div class="blog_post">
-						<div class="blog-thumbnail">
-							<img src="https://via.placeholder.com/170x170" alt="">
-						</div><!--blog-thumbnail end-->
-						<div class="blog_info">
-							<ul class="meta">
-								<li>
-									<span class="category">Web</span>
-								</li>
-								<li>
-									<span>Apr 06, 2020</span>
-								</li>
-							</ul>
-							<h2 class="post-title"><a href="blog-single.php" title="">If you want to learn more
-									about design look at this</a></h2>
-							<a href="blog-single.php" title="" class="btn-default2">read more</a>
-						</div>
-					</div><!--blog_post end-->
-				</div><!--blog-posts end-->
-			</div>
-			<div class="col-lg-6 wow slideInRight" data-wow-delay="300ms">
-				<div class="blog_post main">
-					<div class="blog-thumbnail">
-						<img src="https://via.placeholder.com/458x500" alt="">
-					</div><!--blog-thumbnail end-->
-					<div class="blog_info">
-						<ul class="meta">
-							<li>
-								<span class="category">Portfolio</span>
-							</li>
-							<li>
-								<span>Apr 06, 2020</span>
-							</li>
-						</ul>
-						<h2 class="post-title"><a href="blog-single.php" title="">Best 20 useful tools for
-								people who like to spend time in ...</a></h2>
-					</div>
-				</div><!--blog_post end-->
-			</div>
-		</div>
-	</div>
-</section>
+
 <?php require 'common/footer.php' ?>

@@ -22,7 +22,7 @@
 
 
 
-	<div class="left-sidebar">
+	<!-- <div class="left-sidebar">
 		<a href="#" title="" class="menu-btn">
 			<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
 				<path d="M0.711397 17.6361C-0.0696518 18.4171 -0.0696518 19.6834 0.711397 20.4645C1.49245 21.2455 2.75878 21.2455 3.53982 20.4645L20.5104 3.49393C21.2914 2.71288 21.2914 1.44655 20.5104 0.665498C19.7293 -0.115551 18.463 -0.11555 17.682 0.665498L0.711397 17.6361Z" fill="white" />
@@ -34,7 +34,7 @@
 			<li><a href="#" title="">Linkedin</a></li>
 			<li><a href="#" title="">Behance</a></li>
 		</ul>
-	</div><!--left-sidebar end-->
+	</div>  -->
 
 	<div class="wrapper">
 
@@ -47,11 +47,11 @@
 						</a>
 					</div><!--logo end-->
 					<nav>
-						<ul>
+						<!-- <ul>
 							<li><a href="services.php" title="">Services</a></li>
 							<li><a href="cases.php" title="">Cases</a></li>
 							<li><a href="contact.php" title="">Contact us</a></li>
-						</ul>
+						</ul> -->
 					</nav><!--navigation end-->
 					<div class="right-side-hd">
 						<span>+1 647 822 3830</span>

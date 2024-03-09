@@ -1287,7 +1287,7 @@ footer {
 }
 .wrapper {
 	float: right;
-	width: calc(100% - 100px);
+	width: 100%;
 }
 .menu-btn {
 	margin-top: 70px;

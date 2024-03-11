@@ -90,7 +90,7 @@
 					Discussion is an important thing in the development process. Thus new ideas and ingenious
 					solutions are born. Then we get to work with renewed vigor and inspiration. We are never
 					bored. </p>
-				<a href="about.php" title="" class="btn-default2">read more <img src="images/icon4.svg" alt=""></a>
+				<!-- <a href="about.php" title="" class="btn-default2">read more <img src="images/icon4.svg" alt=""></a> -->
 			</div>
 		</div><!--expt-text end-->
 		<div class="clearfix"></div>
@@ -118,7 +118,7 @@
 							<img src="images/icon6.svg" alt="">
 						</div>
 						<h3>App Development</h3>
-						<a href="app-dev-details.php" title="" class="btn-default2">read more</a>
+						 
 					</div><!--service-col end-->
 				</div>
 				<div class="col-lg-3">
@@ -127,7 +127,7 @@
 							<img src="images/icon7.svg" alt="">
 						</div>
 						<h3>SEO & SMM Optimization</h3>
-						<a href="sso-detail.php" title="" class="btn-default2">read more</a>
+						 
 					</div><!--service-col end-->
 				</div>
 				<div class="col-lg-3">
@@ -136,7 +136,7 @@
 							<img src="images/icon8.svg" alt="">
 						</div>
 						<h3>Web Development</h3>
-						<a href="web-dev-details.php" title="" class="btn-default2">read more</a>
+						 
 					</div>
 				</div>
 				<div class="col-lg-3">
@@ -145,7 +145,7 @@
 							<img src="images/icon5.svg" alt="">
 						</div>
 						<h3>E-commerce Development</h3>
-						<a href="e-com-details.php" title="" class="btn-default2">read more</a>
+						 
 					</div>
 				</div>
 				 
@@ -166,11 +166,32 @@
 					your project and we will make it work. </p>
 			</div><!--title-hd end-->
 			<div class="contact-form wow fadeInUp" data-wow-delay="300ms">
-			<?php 
-			// require 'common/contactForm.php' 
-			?>
- 
-			 </div><!--contact-form end-->
+									<form method="post" action="submit.php" id="contact-form">
+	                                    <div class="response"></div>
+										<div class="row">
+											<div class="col-lg-6 col-md-6 col-sm-6">
+												<div class="input-field">
+													<input type="text" name="name" id="name"  class="name" placeholder="Name">
+												</div><!--input-field end-->
+											</div>
+											<div class="col-lg-6 col-md-6 col-sm-6">
+												<div class="input-field">
+													<input type="text" name="email"  id="email" class="email" placeholder="Email">
+												</div><!--input-field end-->
+											</div>
+											<div class="col-lg-12">
+												<div class="input-field">
+													<textarea id="message" name="message" placeholder="Message"></textarea>
+												</div><!--input-field end-->
+											</div>
+											<div class="col-lg-12">
+												<div class="input-field m-0">
+													<button type="submit" class="btn-default" id="submit">Send message</button>
+												</div>
+											</div>
+										</div>
+									</form>
+								</div><!--contact-form end-->
 		</div><!--consulation-section end-->
 	</div>
 </section>

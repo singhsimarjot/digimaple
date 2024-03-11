@@ -1224,6 +1224,10 @@ footer {
 	margin-top: 71px;
 }
 
+.svg-wrapper svg {
+	width: 100%;
+	height: auto;
+}
 
 /* BOTTOM FOOTER */
 

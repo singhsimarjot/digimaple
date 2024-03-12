@@ -18,7 +18,7 @@
 				<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 					<div class="widget widget-para wow fadeInUp" data-wow-delay="900ms">
 						<h3 class="widget-title">Address:</h3>
-						<p>#65 Woodvalley dr, Brampton, Canada</p>
+						<p>Unit 4, 1000 Edgeley Blvd, Vaughan,<br/> ON L4K 4V4</p>
 					</div><!--widget-para end-->
 				</div>
 				<div class="col-lg-3 col-md-6 col-sm-6 col-12">

@@ -311,7 +311,7 @@ header.pb {
 	background:inherit;
 }
 header {
-	padding: 40px 0 50px;
+	padding: 10px 0 10px;
 	position: relative;
 	background-color: #191b27;
 }
@@ -367,7 +367,7 @@ nav ul li a {
 }
 .right-side-hd {
 	float: right;
-	margin-top: 10px;
+	margin-top: 50px;
 }
 .right-side-hd > span {
 	display: inline-block;

@@ -43,16 +43,16 @@
 				<div class="header-content">
 					<div class="logo">
 					<a href="index.php" title="">
-						<img src="images/digimaple.png">
+						<img src="images/Digimaple_logo.png">
 						</a>
 					</div><!--logo end-->
-					<nav>
-						<!-- <ul>
+					<!--<nav>
+						 <ul>
 							<li><a href="services.php" title="">Services</a></li>
 							<li><a href="cases.php" title="">Cases</a></li>
 							<li><a href="contact.php" title="">Contact us</a></li>
-						</ul> -->
-					</nav><!--navigation end-->
+						</ul>
+					</nav> --><!--navigation end-->
 					<div class="right-side-hd">
 						<span>+1 647 822 3830</span>
 						<a href="contact.php" title="" class="btn-default">Get a quote</a>

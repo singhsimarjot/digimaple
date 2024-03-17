@@ -41,17 +41,17 @@ $(window).on("load", function () {
         method: "POST",
         data: $(form).serialize(),
         beforeSend: function () {
-          $('#contact-form .response').php('<div class="text-info"><img src="images/preloader.gif"> Loading...</div>');
+          $('#contact-form .response').html('<div class="text-info"><img src="images/preloader.gif"> Loading...</div>');
         },
         success: function (data) {
           $('form').trigger("reset");
-          $('#contact-form .response').fadeIn().php(data);
+          $('#contact-form .response').fadeIn().html(data);
           setTimeout(function () {
             $('#contact-form .response').fadeOut("slow");
           }, 5000);
         },
         error: function () {
-          $('#contact-form .response').fadeIn().php(data);
+          $('#contact-form .response').fadeIn().html(data);
         }
       });
     });

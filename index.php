@@ -8,18 +8,19 @@
 					<h1>Craft Design Solutions <span></span></h1>
 					<p>We create new technologies for your business thanks to our wonderful team of
 						professionals.</p>
-						<a href="/contact.php" title="" class="btn-default">Get a quote</a>
+					<a href="/contact.php" title="" class="btn-default">Get a quote</a>
 				</div><!--main-banner-text end-->
 			</div>
 		</div><!--banner-slide end-->
 	</div><!--banner-slider end-->
 	<div class="main-banner-img ">
-		    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1087 1024" style="enable-background:new 0 0 1087 1024;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#DD4243;}
-</style>
-<path class="st0" d="M501.35,170.8c3,0,4.24-0.27,5.31,0.04c36.8,10.7,36.83,10.72,50.54-25.77c4.92-13.11,9.65-26.3,15.21-41.5
+		<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1087 1024" style="enable-background:new 0 0 1087 1024;" xml:space="preserve">
+			<style type="text/css">
+				.st0 {
+					fill: #DD4243;
+				}
+			</style>
+			<path class="st0" d="M501.35,170.8c3,0,4.24-0.27,5.31,0.04c36.8,10.7,36.83,10.72,50.54-25.77c4.92-13.11,9.65-26.3,15.21-41.5
 	c9.78,22.33,18.93,42.54,27.48,63c4.82,11.53,11.11,16.48,24.34,11.73c9.55-3.42,20.24-3.67,29.47-5.18
 	c0,12.76-0.38,23.73,0.07,34.68c1.59,39.3,26.29,62.51,69.1,64.39c17.51,0.77,35.08,0.13,53.21,0.13
 	c-27.35,52.47-44.94,109.49-51.27,173.22c65.71-0.72,123.63-20.51,178.5-56.43c-1.65,32.46,18.23,45.73,44.47,49.77
@@ -70,10 +71,10 @@
 	c10.71,8.02,15.07,15.87,13.99,29.11c-2.06,25.17-2.61,50.46-3.61,75.71c-0.31,7.72-0.05,15.46-0.05,24.05
 	c-40.38-14.89-70.21-33.55-76.91-78.05c-3.38-22.41-16.29-43.38-24.88-65c-0.97,0.41-1.93,0.82-2.9,1.23
 	c11.15,33.21,22.3,66.42,33.46,99.63c-19.84-7.31-34.94-17.45-51.02-25.72c-42.06-21.62-77.12-49.41-96.99-94.39
-	c-7.34-16.63-20.8-30.57-31.47-45.74c-0.78,0.6-1.56,1.2-2.35,1.8C332.77,529.14,349.93,556.94,367.1,584.73z"/>
-</svg>
+	c-7.34-16.63-20.8-30.57-31.47-45.74c-0.78,0.6-1.56,1.2-2.35,1.8C332.77,529.14,349.93,556.94,367.1,584.73z" />
+		</svg>
 
-		</div>
+	</div>
 </section><!--main-banner end-->
 
 <section class="sec-block overlay">
@@ -82,14 +83,17 @@
 	<div class="container">
 		<div class="row">
 			<div class="row">
+ 
 				
 				<div class="col-lg-6">
 					<div class="svg-wrapper d-none d-lg-block">
 		      <img src="./images/about.svg" class="w-100" />
+ 
 
-					</div>
-					
+			 
+
 				</div>
+ 
 				<div class="col-lg-6">
 				<div class="expt-text float-right">
 			<div class="main-banner-text title-hd wow slideInRight" data-wow-delay="300ms">
@@ -104,11 +108,27 @@
 				<!-- <a href="about.php" title="" class="btn-default2">read more <img src="images/icon4.svg" alt=""></a> -->
 			</div>
 		</div><!--expt-text end-->
+ 
+				<div class="col-6">
+					<div class="expt-text float-right">
+						<div class="main-banner-text title-hd wow slideInRight" data-wow-delay="300ms">
+							<span>about us</span>
+							<h1>We are Experts in Our Field <span></span></h1>
+							<p>Our digital company of professionals has been developing products for 15 years. </p>
+							<p class="bdy">We’ve got a lot of awards for our work and develop applications that became
+								popular in the world. Every morning in our company begins with hot coffee and a stand-up.
+								Discussion is an important thing in the development process. Thus new ideas and ingenious
+								solutions are born. Then we get to work with renewed vigor and inspiration. We are never
+								bored. </p>
+							<!-- <a href="about.php" title="" class="btn-default2">read more <img src="images/icon4.svg" alt=""></a> -->
+						</div>
+					</div><!--expt-text end-->
+ 
 
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="clearfix"></div>
 	</div>
 </section>
@@ -127,14 +147,14 @@
 	<div class="services-section">
 		<div class="container">
 			<div class="row svs-carousel">
-			 
+
 				<div class="col-lg-3">
 					<div class="service-col wow fadeIn" data-wow-delay="600ms">
 						<div class="svs-icon">
 							<img src="images/icon6.svg" alt="">
 						</div>
 						<h3>App Development</h3>
-						 
+
 					</div><!--service-col end-->
 				</div>
 				<div class="col-lg-3">
@@ -143,7 +163,7 @@
 							<img src="images/icon7.svg" alt="">
 						</div>
 						<h3>SEO & SMM Optimization</h3>
-						 
+
 					</div><!--service-col end-->
 				</div>
 				<div class="col-lg-3">
@@ -152,7 +172,7 @@
 							<img src="images/icon8.svg" alt="">
 						</div>
 						<h3>Web Development</h3>
-						 
+
 					</div>
 				</div>
 				<div class="col-lg-3">
@@ -161,11 +181,11 @@
 							<img src="images/icon5.svg" alt="">
 						</div>
 						<h3>E-commerce Development</h3>
-						 
+
 					</div>
 				</div>
-				 
-				 
+
+
 			</div>
 		</div>
 	</div><!--services-section end-->
@@ -184,32 +204,34 @@
 					your project and we will make it work. </p>
 			</div><!--title-hd end-->
 			<div class="contact-form wow fadeInUp" data-wow-delay="300ms">
-									<form method="post" action="submit.php" id="contact-form">
-	                                    <div class="response"></div>
-										<div class="row">
-											<div class="col-lg-6 col-md-6 col-sm-6">
-												<div class="input-field">
-													<input type="text" name="name" id="name"  class="name" placeholder="Name">
-												</div><!--input-field end-->
-											</div>
-											<div class="col-lg-6 col-md-6 col-sm-6">
-												<div class="input-field">
-													<input type="text" name="email"  id="email" class="email" placeholder="Email">
-												</div><!--input-field end-->
-											</div>
-											<div class="col-lg-12">
-												<div class="input-field">
-													<textarea id="message" name="message" placeholder="Message"></textarea>
-												</div><!--input-field end-->
-											</div>
-											<div class="col-lg-12">
-												<div class="input-field m-0">
-													<button type="submit" class="btn-default" id="submit">Send message</button>
-												</div>
-											</div>
-										</div>
-									</form>
-								</div><!--contact-form end-->
+				<form method="post" action="#" id="contact-form">
+					<div class="response"></div>
+					<div class="row">
+						<div class="col-lg-6">
+							<div class="input-field">
+								<input type="text" name="name" class="name" placeholder="Name">
+							</div><!--input-field end-->
+						</div>
+						<div class="col-lg-6">
+							<div class="input-field">
+								<input type="text" name="email" class="email" placeholder="Email">
+							</div><!--input-field end-->
+						</div>
+						<div class="col-lg-12">
+							<div class="input-field">
+								<textarea name="message" placeholder="Message"></textarea>
+							</div><!--input-field end-->
+						</div>
+						<div class="col-lg-12">
+							<div class="input-field m-0">
+								<button type="button" class="btn-default" id="submit">Send message</button>
+							</div>
+						</div>
+					</div>
+				</form>
+
+
+			</div><!--contact-form end-->
 		</div><!--consulation-section end-->
 
 			</div>

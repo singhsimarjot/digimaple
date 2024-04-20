@@ -60,7 +60,7 @@ body {
     font-family: 'Poppins', sans-serif;
     line-height: 1;
 	overflow-x: hidden;
-	background-color: #191C26;
+	background-color: #121521;
 	font-weight: 400;
 }
 ul {
@@ -313,7 +313,7 @@ header.pb {
 header {
 	padding: 10px 0 10px;
 	position: relative;
-	background-color: #191b27;
+	 
 }
 
 header.pb:before {
@@ -1557,7 +1557,8 @@ footer {
 	height: 100%;
 }
 .partner-col > img {
-	width: auto;
+	width: 90%;
+	height: auto;
 }
 
 /* =================== VIDEO SECTION ================= */

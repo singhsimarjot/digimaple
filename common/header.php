@@ -43,7 +43,7 @@
 				<div class="header-content">
 					<div class="logo">
 					<a href="index.php" title="">
-						<img src="images/Digimaple_logo.png">
+						<img src="images/logo.png">
 						</a>
 					</div><!--logo end-->
 					<!--<nav>
@@ -86,4 +86,4 @@
 				</li>
 				<li><a href="contact.php" title="">Contact us</a></li>
 			</ul>
-		</div><!--responsive-mobile-menu end-->
+		</div><!--responsive-mobile-menu end-->-

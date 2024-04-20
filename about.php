@@ -125,6 +125,16 @@
 						</div>
 					</div><!--tema-col end-->
 				</div>
+				<div class="col-lg-4">
+					<div class="tema-col">
+						<img src="./images/gurjeet.jpg" alt="">
+						<div class="team-caption">
+							<h3><a href="#" title="">Gurjeet Singh</a></h3>
+							<span>Team Lead</span>
+							 
+						</div>
+					</div><!--tema-col end-->
+				</div>
 				 
 				<div class="col-lg-4">
 					<div class="tema-col">
@@ -132,6 +142,17 @@
 						<div class="team-caption">
 							<h3><a href="#" title="">Jiwanjot Singh</a></h3>
 							<span>Backend Developer</span>
+							 
+						</div>
+					</div><!--tema-col end-->
+				</div>
+				
+				<div class="col-lg-4">
+					<div class="tema-col">
+						<img src="./images/Simran.jpg" alt="">
+						<div class="team-caption">
+							<h3><a href="#" title="">Simran</a></h3>
+							<span>Frontend Developer</span>
 							 
 						</div>
 					</div><!--tema-col end-->

@@ -97,7 +97,7 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="tema-col">
-						<img src="https://via.placeholder.com/380x490" alt="">
+						<img src="./images/bachiter.jpg" alt="">
 						<div class="team-caption">
 							<h3><a href="#" title="">Bachiter Singh</a></h3>
 							<span>CTO</span>
@@ -125,29 +125,10 @@
 						</div>
 					</div><!--tema-col end-->
 				</div>
+				 
 				<div class="col-lg-4">
 					<div class="tema-col">
-						<img src="https://via.placeholder.com/380x490" alt="">
-						<div class="team-caption">
-							<h3><a href="#" title="">Simranjeet Kaur</a></h3>
-							<span>Frontend Developer</span>
-							 
-						</div>
-					</div><!--tema-col end-->
-				</div>
-				<div class="col-lg-4">
-					<div class="tema-col">
-						<img src="https://via.placeholder.com/380x490" alt="">
-						<div class="team-caption">
-							<h3><a href="#" title="">Manpreet Kaur</a></h3>
-							<span>Human Resources</span>
-							 
-						</div>
-					</div><!--tema-col end-->
-				</div>
-				<div class="col-lg-4">
-					<div class="tema-col">
-						<img src="https://via.placeholder.com/380x490" alt="">
+						<img src="./images/Jiwanjot.jpg" alt="">
 						<div class="team-caption">
 							<h3><a href="#" title="">Jiwanjot Singh</a></h3>
 							<span>Backend Developer</span>

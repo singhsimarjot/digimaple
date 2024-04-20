@@ -1500,6 +1500,10 @@ footer {
 .tema-col > img {
 	display: block;
 	width: 100%;
+	filter: grayscale(1);
+}
+.tema-col:hover img {
+	filter: grayscale(0);
 }
 .team-caption {
 	position: absolute;

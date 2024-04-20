@@ -4,7 +4,7 @@
 <section class="pager-sec text-right pb-75">
 	<div class="container-fluid">
 		<ul>
-			<li><a href="index.php" title="">Home</a></li>
+		<li><a href="/index.php" title="">Home</a></li>
 			<li><span>Services</span></li>
 		</ul>
 	</div>

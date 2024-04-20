@@ -321,18 +321,7 @@
 								<div class="clearfix"></div>
 							</div>
 						</div><!--widget-recent-posts end-->
-						<div class="widget widget-newslettter">
-							<h3>Newsletter</h3>
-							<form>
-								<input type="email" name="email" placeholder="Email">
-								<button type="submit"><img src="images/vector.svg" alt=""></button>
-							</form>
-							<ul class="lang-slct">
-								<li><a href="#" title="">fb</a></li>
-								<li><a href="#" title="">lin</a></li>
-								<li><a href="#" title="">inst</a></li>
-							</ul>
-						</div><!--widget-newsletter end-->
+						 
 						<div class="widget widget-tags">
 							<h3 class="widget-title">Tags</h3>
 							<ul class="tags">
@@ -353,40 +342,7 @@
 	</div><!--about-in-details end-->
 </section><!--about_us_section end-->
 
-<!-- <footer class="gradient-bg2">
-		<div class="container">
-			<div class="bottom-footer">
-				<div class="row">
-					<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-						<div class="widget widget-about wow fadeInUp" data-wow-delay="300ms">
-							<img src="images/logo.png" alt="">
-							<p>Copyright © 2020 Crope.</p>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-						<div class="widget widget-para wow fadeInDown" data-wow-delay="600ms">
-							<h3 class="widget-title">Working hours:</h3>
-							<p>Mon - Fri: 9 am - 6 pm Sat, Sun: Holiday</p>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-						<div class="widget widget-para wow fadeInUp" data-wow-delay="900ms">
-							<h3 class="widget-title">Address:</h3>
-							<p>27 Division St, New York, NY 10002, USA</p>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-						<div class="widget widget-para wow fadeInDown" data-wow-delay="1200ms">
-							<h3 class="widget-title">Hit us up:</h3>
-							<span>+1 845 631 78 49</span>
-							<p>info@sitename.com</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</footer> -->
-
+ 
 
 </div><!--wrapper end-->
 <div class="clearfix"></div>

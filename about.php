@@ -45,8 +45,11 @@
 					<div class="col-lg-6">
 						<div class="text-bz pl-100 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="550ms">
 							<h3>How our working day starts</h3>
-							<p>Every morning in our company begins with hot coffee and a stand-up. Discussion is an important thing in the development process.</p>
-							<p>Thus new ideas and ingenious solutions are born. Then we get to work with renewed vigor and inspiration. We are never bored. </p>
+							<p>Our working day starts with a cup of coffee and a quick team huddle. We gather to discuss the day ahead, reviewing our priorities and setting goals. This brief meeting helps us align our efforts and ensure that everyone is on the same page. 
+								
+
+.</p>
+							<p>We then dive into our individual tasks, whether it's coding a new feature, designing a user interface, or planning a digital marketing campaign. Throughout the day, we stay connected through our project management tools, Slack channels, and occasional check-ins. This collaborative approach sets the tone for a productive day ahead, allowing us to deliver high-quality work for our clients. </p>
 						</div><!--text-bz end-->
 					</div>
 				</div>
@@ -56,9 +59,15 @@
 					<div class="col-lg-6 order-md--1">
 						<div class="text-bz pr-100 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="670ms">
 							<h3>Individual approach</h3>
-							<p>Every morning in our company begins with hot coffee and a stand-up.</p>
-							<p>Discussion is an important thing in the development process. Thus new ideas and ingenious solutions are born. Then we get to work with renewed vigor and inspiration. We are never bored. </p>
-						</div><!--text-bz end-->
+							<p> 
+
+At Digimaple, we believe in taking an individual approach to every project we undertake. We understand that each client is unique, with their own set of goals, challenges, and preferences. That's why we take the time to listen and understand our clients' needs before crafting a solution that is tailored to their specific requirements.
+							</p>
+	 <p>
+By taking an individual approach, we are able to deliver solutions that are not only visually stunning and technically robust but also aligned with our clients' goals and objectives.
+</p>
+ 
+ 						</div><!--text-bz end-->
 					</div>
 					<div class="col-lg-6 order-md--0">
 						<div class="counter-cl text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
@@ -117,10 +126,10 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="tema-col">
-						<img src="https://via.placeholder.com/380x490" alt="">
+						<img src="./images/KiranQA.jpg" alt="">
 						<div class="team-caption">
-							<h3><a href="#" title="">Gurjeet Singh</a></h3>
-							<span>Graphic Designer</span>
+							<h3><a href="#" title="">Jaskiran Kaur</a></h3>
+							<span>QA Lead</span>
 							
 						</div>
 					</div><!--tema-col end-->
@@ -181,80 +190,16 @@
 			<div class="partner-col" style="background-color: #ffffff;" >
 				<img src="./images/lineup.svg" alt="">
 			</div><!--partner-col end-->
+			<div class="partner-col" style="background-color: #ffffff;" >
+				<img src="./images/digiYum.svg" alt="">
+			</div><!--partner-col end-->
 			 
 		</div><!--partners-logo end-->
 	</div>
 </section><!--partners-section end-->
 
  
-
-<!-- <footer>
-		<div class="container">
-			<div class="top-footer">
-				<div class="row">
-					<div class="col-lg-6">
-						<div class="tp-contact wow fadeInUp" data-wow-delay="300ms">
-							<div class="main-banner-text title-hd">
-								<span>newsletter</span>
-								<h1>be always <br /> in touch <span></span></h1>
-								<p class="bdy">We are grateful to know you are interested in our content and services. Subscribe</p>
-							</div>
-							<form class="newsletter-form">
-								<input type="email" name="email" placeholder="Email">
-								<button type="submit"><img src="images/send.svg" alt=""></button>
-							</form>
-							<div class="clearfix"></div>
-						</div>
-					</div>
-					<div class="col-lg-6">
-						<div class="testimonial-sec wow fadeInDown" data-wow-delay="300ms">
-							<div class="testi-head">
-								<div class="testi-thumb">
-									<img src="https://via.placeholder.com/70x70" alt="">
-								</div>
-								<div class="testi-info">
-									<h3>Katerina Wilson</h3>
-									<span>CEO at Crope Design Company</span>
-								</div>
-							</div>
-							<p>We never give up. Сhallenges make us stronger and more professional. Keep in mind. Beware ;</p>
-							<img src="images/sing.png" alt="">
-						</div>
-						<div class="clearfix"></div>
-					</div>
-				</div>
-			</div>
-			<div class="bottom-footer">
-				<div class="row">
-					<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-						<div class="widget widget-about wow fadeInUp" data-wow-delay="300ms">
-							<img src="images/logo.png" alt="">
-							<p>Copyright © 2020 Crope.</p>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-						<div class="widget widget-para wow fadeInDown" data-wow-delay="600ms">
-							<h3 class="widget-title">Working hours:</h3>
-							<p>Mon - Fri: 9 am - 6 pm Sat, Sun: Holiday</p>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-						<div class="widget widget-para wow fadeInUp" data-wow-delay="900ms">
-							<h3 class="widget-title">Address:</h3>
-							<p>27 Division St, New York, NY 10002, USA</p>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-						<div class="widget widget-para wow fadeInDown" data-wow-delay="1200ms">
-							<h3 class="widget-title">Hit us up:</h3>
-							<span>+1 845 631 78 49</span>
-							<p>info@sitename.com</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</footer> -->
+ 
 
 
 </div><!--wrapper end-->

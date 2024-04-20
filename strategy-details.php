@@ -187,18 +187,7 @@
 								<p>Don’t know where to start? We’ll help you.</p>
 								<a href="contact.php" title="" class="btn-default2">contact us</a>
 							</div><!--widget-help end-->
-							<div class="widget widget-newslettter">
-								<h3>Newsletter</h3>
-								<form>
-									<input type="email" name="email" placeholder="Email">
-									<button type="submit"><img src="images/vector.svg" alt=""></button>
-								</form>
-								<ul class="lang-slct">
-									<li><a href="#" title="">fb</a></li>
-									<li><a href="#" title="">lin</a></li>
-									<li><a href="#" title="">inst</a></li>
-								</ul>
-							</div><!--widget-newslettter end-->
+							 
 						</div><!--sidebar end-->
 					</div>
 				</div>

@@ -135,7 +135,7 @@
 						</div>
 						<div class="col-lg-6">
 							<div class="input-field">
-								<input type="text" name="email" class="email" placeholder="Email">
+								<input type="email" name="email" class="email" placeholder="Email">
 							</div><!--input-field end-->
 						</div>
 						<div class="col-lg-12">

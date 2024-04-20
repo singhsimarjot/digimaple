@@ -21,9 +21,9 @@
 					<div class="col-lg-6">
 						<div class="main-banner-text title-hd wow pt-5 fadeInUp" data-wow-duration="1000ms">
 							<span>about us</span>
-							<h1>Wa are creative & strong team <span></span></h1>
-							<p>Our creative and professional agency has been developing products for 15 years. We are special.</p>
-							<p class="bdy">We’ve got a lot of awards for our work and develop applications that became popular in the world. We try not to miss important details in each area.</p>
+							<h1>We are a creative & strong team <span></span></h1>
+							<p>Our creative and professional agency has been developing products for 15 years. We specialize in delivering exceptional solutions that set us apart.</p>
+							<p class="bdy">We have received numerous awards for our work and have developed applications that have gained worldwide popularity. We strive not to overlook any important details in each area.</p>
 						</div>
 					</div>
 					<div class="col-lg-6">
@@ -45,11 +45,8 @@
 					<div class="col-lg-6">
 						<div class="text-bz pl-100 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="550ms">
 							<h3>How our working day starts</h3>
-							<p>Our working day starts with a cup of coffee and a quick team huddle. We gather to discuss the day ahead, reviewing our priorities and setting goals. This brief meeting helps us align our efforts and ensure that everyone is on the same page. 
-								
-
-.</p>
-							<p>We then dive into our individual tasks, whether it's coding a new feature, designing a user interface, or planning a digital marketing campaign. Throughout the day, we stay connected through our project management tools, Slack channels, and occasional check-ins. This collaborative approach sets the tone for a productive day ahead, allowing us to deliver high-quality work for our clients. </p>
+							<p>Our working day typically begins with a team meeting where we discuss priorities, ongoing projects, and any updates or challenges. This allows us to align our efforts, stay organized, and ensure everyone is on the same page.</p>
+							<p>We also take this time to share ideas, brainstorm new concepts, and provide support to one another. Starting our day with this collaborative approach sets the tone for productivity and innovation throughout the day.</p>
 						</div><!--text-bz end-->
 					</div>
 				</div>
@@ -59,15 +56,9 @@
 					<div class="col-lg-6 order-md--1">
 						<div class="text-bz pr-100 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="670ms">
 							<h3>Individual approach</h3>
-							<p> 
-
-At Digimaple, we believe in taking an individual approach to every project we undertake. We understand that each client is unique, with their own set of goals, challenges, and preferences. That's why we take the time to listen and understand our clients' needs before crafting a solution that is tailored to their specific requirements.
-							</p>
-	 <p>
-By taking an individual approach, we are able to deliver solutions that are not only visually stunning and technically robust but also aligned with our clients' goals and objectives.
-</p>
- 
- 						</div><!--text-bz end-->
+							<p>At Digi Maple Inc, we believe in the power of the individual approach. We understand that each client and project is unique, which is why we tailor our solutions to meet your specific needs and goals. </p>
+							<p>Whether you're seeking web development, ecommerce solutions, SEO, or SMM services, we take the time to understand your business, industry, and target audience to deliver personalized strategies that drive success.</p>
+						</div><!--text-bz end-->
 					</div>
 					<div class="col-lg-6 order-md--0">
 						<div class="counter-cl text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
@@ -88,7 +79,7 @@ By taking an individual approach, we are able to deliver solutions that are not 
 		<div class="main-banner-text title-hd mg-bt-40 wow fadeInUp" data-wow-duration="1000ms">
 			<span>Our experts</span>
 			<h1>Friendly team <span></span></h1>
-			<p class="bdy">Every day we communicate with each other, solve our clients’ problems and work hard to succeed their business.</p>
+			<p class="bdy">At Digi Maple Inc, we pride ourselves on our friendly team culture. We believe that a positive and supportive environment is key to fostering creativity, collaboration, and ultimately, success.</p>
 		</div>
 	</div>
 	<div class="services-section">
@@ -205,18 +196,4 @@ By taking an individual approach, we are able to deliver solutions that are not 
 </div><!--wrapper end-->
 <div class="clearfix"></div>
 
-
-<script src="js/jquery.min.js"></script>
-<script src="js/popper.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/plugin/slick.min.js"></script>
-<script src="js/plugin/html5lightbox.js"></script>
-<script src="js/placeholdem.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/script.js"></script>
-
 <?php require 'common/footer.php' ?>
-
-<!-- </body>
-
-</html> -->

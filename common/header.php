@@ -3,11 +3,12 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Digimaple</title>
+	<title>Digi Maple Inc.</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Crope - Multipurpose agency website" />
-	<meta name="author" content="George_fx">
-	<meta name="keywords" content="" />
+	<meta name="description" content="Digi Maple Inc - Your Premier Destination for Web Solutions. Specializing in Web Development, Ecommerce Solutions, SEO, and SMM. Transform your online presence with our expert services. Contact us today for tailored solutions that drive growth and success!" />
+	<meta name="author" content="DigiMaple">
+	<meta name="keywords" content="web agency, ecommerce development, app development" />
+	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="css/animate.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/slick.css">

@@ -21,9 +21,9 @@
 					<div class="col-lg-6">
 						<div class="main-banner-text title-hd wow pt-5 fadeInUp" data-wow-duration="1000ms">
 							<span>about us</span>
-							<h1>Wa are creative & strong team <span></span></h1>
-							<p>Our creative and professional agency has been developing products for 15 years. We are special.</p>
-							<p class="bdy">We’ve got a lot of awards for our work and develop applications that became popular in the world. We try not to miss important details in each area.</p>
+							<h1>We are a creative & strong team <span></span></h1>
+							<p>Our creative and professional agency has been developing products for 15 years. We specialize in delivering exceptional solutions that set us apart.</p>
+							<p class="bdy">We have received numerous awards for our work and have developed applications that have gained worldwide popularity. We strive not to overlook any important details in each area.</p>
 						</div>
 					</div>
 					<div class="col-lg-6">
@@ -45,8 +45,8 @@
 					<div class="col-lg-6">
 						<div class="text-bz pl-100 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="550ms">
 							<h3>How our working day starts</h3>
-							<p>Every morning in our company begins with hot coffee and a stand-up. Discussion is an important thing in the development process.</p>
-							<p>Thus new ideas and ingenious solutions are born. Then we get to work with renewed vigor and inspiration. We are never bored. </p>
+							<p>Our working day typically begins with a team meeting where we discuss priorities, ongoing projects, and any updates or challenges. This allows us to align our efforts, stay organized, and ensure everyone is on the same page.</p>
+							<p>We also take this time to share ideas, brainstorm new concepts, and provide support to one another. Starting our day with this collaborative approach sets the tone for productivity and innovation throughout the day.</p>
 						</div><!--text-bz end-->
 					</div>
 				</div>
@@ -56,8 +56,8 @@
 					<div class="col-lg-6 order-md--1">
 						<div class="text-bz pr-100 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="670ms">
 							<h3>Individual approach</h3>
-							<p>Every morning in our company begins with hot coffee and a stand-up.</p>
-							<p>Discussion is an important thing in the development process. Thus new ideas and ingenious solutions are born. Then we get to work with renewed vigor and inspiration. We are never bored. </p>
+							<p>At Digi Maple Inc, we believe in the power of the individual approach. We understand that each client and project is unique, which is why we tailor our solutions to meet your specific needs and goals. </p>
+							<p>Whether you're seeking web development, ecommerce solutions, SEO, or SMM services, we take the time to understand your business, industry, and target audience to deliver personalized strategies that drive success.</p>
 						</div><!--text-bz end-->
 					</div>
 					<div class="col-lg-6 order-md--0">
@@ -79,7 +79,7 @@
 		<div class="main-banner-text title-hd mg-bt-40 wow fadeInUp" data-wow-duration="1000ms">
 			<span>Our experts</span>
 			<h1>Friendly team <span></span></h1>
-			<p class="bdy">Every day we communicate with each other, solve our clients’ problems and work hard to succeed their business.</p>
+			<p class="bdy">At Digi Maple Inc, we pride ourselves on our friendly team culture. We believe that a positive and supportive environment is key to fostering creativity, collaboration, and ultimately, success.</p>
 		</div>
 	</div>
 	<div class="services-section">
@@ -260,18 +260,4 @@
 </div><!--wrapper end-->
 <div class="clearfix"></div>
 
-
-<script src="js/jquery.min.js"></script>
-<script src="js/popper.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/plugin/slick.min.js"></script>
-<script src="js/plugin/html5lightbox.js"></script>
-<script src="js/placeholdem.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/script.js"></script>
-
 <?php require 'common/footer.php' ?>
-
-<!-- </body>
-
-</html> -->

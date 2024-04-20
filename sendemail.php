@@ -21,7 +21,7 @@ if (isset($_POST["name"])) {
 
 	// Body message
 	$message = "Name: " . $name . "<br>Email: " . $senderEmail . "<br>Message: " . $message . "";
-	print_r($message);
+	
 	// Email Send Function
 	$send_email = mail($to, $subject, $message, $headers);
 

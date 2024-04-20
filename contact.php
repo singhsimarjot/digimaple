@@ -1,4 +1,3 @@
-
 <?php require 'common/header.php' ?>
 
 <section class="pager-sec text-right   pb-75">
@@ -24,8 +23,8 @@
 							</div>
 							<div class="contact-nfo">
 								<h3>Address:</h3>
-								<p>Unit 4, 1000 Edgeley Blvd,<br/> Vaughan,
-ON L4K 4V4</p>
+								<p>Unit 4, 1000 Edgeley Blvd,<br /> Vaughan,
+									ON L4K 4V4</p>
 							</div>
 						</div><!--contact-lzt end-->
 						<div class="contact-lzt">
@@ -57,8 +56,31 @@ ON L4K 4V4</p>
 							<p class="bdy">We always try to implement our creative ideas at the highest level. Tell us about your project and we will make it work. </p>
 						</div><!--title-hd end-->
 						<div class="contact-form wow fadeInUp" data-wow-delay="300ms">
-						<?php require 'common/contactForm.php' ?>
- 	 
+							<form method="post" action="#" id="contact-form">
+								<div class="response"></div>
+								<div class="row">
+									<div class="col-lg-6">
+										<div class="input-field">
+											<input type="text" name="name" class="name" placeholder="Name">
+										</div><!--input-field end-->
+									</div>
+									<div class="col-lg-6">
+										<div class="input-field">
+											<input type="email" name="email" class="email" placeholder="Email">
+										</div><!--input-field end-->
+									</div>
+									<div class="col-lg-12">
+										<div class="input-field">
+											<textarea name="message" placeholder="Message"></textarea>
+										</div><!--input-field end-->
+									</div>
+									<div class="col-lg-12">
+										<div class="input-field m-0">
+											<button type="button" class="btn-default" id="submit">Send message</button>
+										</div>
+									</div>
+								</div>
+							</form>
 						</div><!--contact-form end-->
 					</div><!--consulation-section end-->
 				</div>
@@ -67,7 +89,7 @@ ON L4K 4V4</p>
 	</div>
 </section>
 
- 
+
 
 <!-- <footer>
 			<div class="container">

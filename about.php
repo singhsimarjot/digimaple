@@ -13,7 +13,7 @@
 
 <section class="about_us_section">
 	<div class="page-content ">
-		<div class="fixed-bg bg7"></div>
+		<div class="fixed-bg "></div>
 		<h2 class="page-number  ">01.</h2>
 		<div class="container">
 			<div class="oct-abt-row">

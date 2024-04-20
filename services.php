@@ -1,79 +1,4 @@
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Crope</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Crope - Multipurpose agency website" />
-	<meta name="author" content="George_fx">
-	<meta name="keywords" content="" />
-	<link rel="icon" href="images/favicon.png">
-	<link rel="stylesheet" type="text/css" href="css/animate.css">
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="css/color.css">
-	<link rel="stylesheet" type="text/css" href="css/responsive.css">
-</head>
 
-
-<body class="bg-color2">
-
-	<div class="preloader">
-		<div class="loader-content">
-			<div class="logo">
-				<img src="images/logo.png" alt="">
-			</div>
-			<h2>is loading...</h2>
-			<img src="images/loader.gif" alt="">
-		</div>
-	</div>
-	
-	<div class="left-sidebar">
-		<a href="#" title="" class="menu-btn">
-			<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-				<path d="M0.711397 17.6361C-0.0696518 18.4171 -0.0696518 19.6834 0.711397 20.4645C1.49245 21.2455 2.75878 21.2455 3.53982 20.4645L20.5104 3.49393C21.2914 2.71288 21.2914 1.44655 20.5104 0.665498C19.7293 -0.115551 18.463 -0.11555 17.682 0.665498L0.711397 17.6361Z" fill="white"/>
-				<path d="M2.12558 31.7782C1.34453 30.9971 1.34453 29.7308 2.12558 28.9498L19.0961 11.9792C19.8772 11.1981 21.1435 11.1981 21.9246 11.9792C22.7056 12.7602 22.7056 14.0266 21.9246 14.8076L4.95401 31.7782C4.17296 32.5592 2.90663 32.5592 2.12558 31.7782Z" fill="white"/>
-				<path d="M13.4393 33.1924C12.6583 32.4113 12.6583 31.145 13.4393 30.364L30.4099 13.3934C31.1909 12.6124 32.4572 12.6124 33.2383 13.3934C34.0193 14.1745 34.0193 15.4408 33.2383 16.2218L16.2677 33.1924C15.4867 33.9734 14.2204 33.9734 13.4393 33.1924Z" fill="white"/>
-			</svg>
-		</a>
-		<ul class="mbl-menu">
-			<li><a href="#" title="">Linkedin</a></li>
-			<li><a href="#" title="">Behance</a></li>
-		</ul>
-	</div>
-
-	<div class="wrapper">
-
-		<header class="gradient-bg">
-			<div class="container">
-				<div class="header-content">
-					<div class="logo">
-						<a href="index.php" title="">
-							<img src="images/logo.png" alt="">
-						</a>
-					</div>
-					<nav>
-						<ul>
-							<li><a href="services.php" title="">Services</a></li>
-							<li><a href="cases.php" title="">Cases</a></li>
-							<li><a href="contact.php" title="">Contact us</a></li>
-						</ul>
-					</nav>
-					<div class="right-side-hd">
-						<span>+1 845 631 78 49</span>
-						<a href="#" title="" class="btn-default">Get a quote</a>
-					</div>
-					<a href="#" title="" class="menu-btn">
-						<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-							<path d="M0.711397 17.6361C-0.0696518 18.4171 -0.0696518 19.6834 0.711397 20.4645C1.49245 21.2455 2.75878 21.2455 3.53982 20.4645L20.5104 3.49393C21.2914 2.71288 21.2914 1.44655 20.5104 0.665498C19.7293 -0.115551 18.463 -0.11555 17.682 0.665498L0.711397 17.6361Z" fill="white"/>
-							<path d="M2.12558 31.7782C1.34453 30.9971 1.34453 29.7308 2.12558 28.9498L19.0961 11.9792C19.8772 11.1981 21.1435 11.1981 21.9246 11.9792C22.7056 12.7602 22.7056 14.0266 21.9246 14.8076L4.95401 31.7782C4.17296 32.5592 2.90663 32.5592 2.12558 31.7782Z" fill="white"/>
-							<path d="M13.4393 33.1924C12.6583 32.4113 12.6583 31.145 13.4393 30.364L30.4099 13.3934C31.1909 12.6124 32.4572 12.6124 33.2383 13.3934C34.0193 14.1745 34.0193 15.4408 33.2383 16.2218L16.2677 33.1924C15.4867 33.9734 14.2204 33.9734 13.4393 33.1924Z" fill="white"/>
-						</svg>
-					</a>
-					<div class="clearfix"></div>
-				</div>
-			</div>	
-		</header> -->
 <?php require 'common/header.php' ?>
 
 <section class="pager-sec text-right pb-75">
@@ -86,7 +11,7 @@
 </section><!--pager-sec end-->
 
 <section class="sec-block3 pt-0">
-	<div class="fixed-bg bg7"></div>
+	<div class="fixed-bg  "></div>
 	<h2 class="page-number">01.</h2>
 	<div class="container">
 		<div class="main-banner-text title-hd max-width-100">
@@ -157,95 +82,8 @@
 	</div><!--services-section end-->
 </section><!--about_us_section end-->
 
-<section class="sec-block4 overlay">
-	<div class="bg-position right-position"></div>
-	<div class="container">
-		<div class="consulation-section">
-			<div class="main-banner-text title-hd wow fadeInUp" data-wow-delay="300ms">
-				<span>let’s get started</span>
-				<h1>Get a Free Consultation <span></span></h1>
-				<p class="bdy">We always try to implement our creative ideas at the highest level. Tell us about your project and we will make it work. </p>
-			</div><!--title-hd end-->
-			<div class="contact-form wow fadeInUp" data-wow-delay="300ms">
-				<form method="post" action="#" id="contact-form">
-					<div class="response"></div>
-					<div class="row">
-						<div class="col-lg-6">
-							<div class="input-field">
-								<input type="text" name="name" class="name" placeholder="Name">
-							</div><!--input-field end-->
-						</div>
-						<div class="col-lg-6">
-							<div class="input-field">
-								<input type="text" name="email" class="email" placeholder="Email">
-							</div><!--input-field end-->
-						</div>
-						<div class="col-lg-12">
-							<div class="input-field">
-								<textarea name="message" placeholder="Message"></textarea>
-							</div><!--input-field end-->
-						</div>
-						<div class="col-lg-12">
-							<div class="input-field m-0">
-								<button type="button" class="btn-default" id="submit">Send message</button>
-							</div>
-						</div>
-					</div>
-				</form>
-			</div><!--contact-form end-->
-		</div><!--consulation-section end-->
-	</div>
-</section>
-
-<section class="partners-section">
-	<div class="container">
-		<div class="partners-logo">
-			<div class="partner-col">
-				<img src="https://via.placeholder.com/125x77" alt="">
-			</div><!--partner-col end-->
-			<div class="partner-col">
-				<img src="https://via.placeholder.com/126x56" alt="">
-			</div><!--partner-col end-->
-			<div class="partner-col">
-				<img src="https://via.placeholder.com/67x91" alt="">
-			</div><!--partner-col end-->
-			<div class="partner-col">
-				<img src="https://via.placeholder.com/96x96" alt="">
-			</div><!--partner-col end-->
-			<div class="partner-col">
-				<img src="https://via.placeholder.com/103x65" alt="">
-			</div><!--partner-col end-->
-			<div class="partner-col">
-				<img src="https://via.placeholder.com/125x77" alt="">
-			</div><!--partner-col end-->
-			<div class="partner-col">
-				<img src="https://via.placeholder.com/126x56" alt="">
-			</div><!--partner-col end-->
-			<div class="partner-col">
-				<img src="https://via.placeholder.com/67x91" alt="">
-			</div><!--partner-col end-->
-			<div class="partner-col">
-				<img src="https://via.placeholder.com/96x96" alt="">
-			</div><!--partner-col end-->
-			<div class="partner-col">
-				<img src="https://via.placeholder.com/103x65" alt="">
-			</div><!--partner-col end-->
-		</div><!--partners-logo end-->
-	</div>
-</section><!--partners-section end-->
-
-<section class="video-section overlay">
-	<img src="https://via.placeholder.com/1920x750" alt="">
-	<div class="play-video-div">
-		<div class="poly1">
-			<div class="poly2">
-				<a href="https://www.youtube.com/watch?v=FSGfN9rr78Q" title="" class="play-video html5lightbox">
-					<img src="images/icon1.svg" alt="">
-				</a>
-			</div>
-		</div>
-	</div>
-</section><!--video-section end-->
+ 
+  
 
 <section class="sec-block3">
 	<div class="fixed-bg bg7"></div>
@@ -272,7 +110,7 @@
 							<li> Inquiry Form</li>
 							<li> Responsive Design</li>
 						</ul>
-						<a href="#" title="" class="btn-default">Buy Now</a>
+						<!-- <a href="#" title="" class="btn-default">Buy Now</a> -->
 					</div><!--price-col end-->
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-6">
@@ -289,7 +127,7 @@
 							<li> Competitor analysis</li>
 							<li>Offer Pop-Up Windows</li>
 						</ul>
-						<a href="#" title="" class="btn-default">Buy Now</a>
+						<!-- <a href="#" title="" class="btn-default">Buy Now</a> -->
 					</div><!--price-col end-->
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-6">
@@ -306,7 +144,7 @@
 							<li> FREE Site Building Tools</li>
 							<li>24/7 Support</li>
 						</ul>
-						<a href="#" title="" class="btn-default">Buy Now</a>
+						<!-- <a href="#" title="" class="btn-default">Buy Now</a> -->
 					</div><!--price-col end-->
 				</div>
 			</div>

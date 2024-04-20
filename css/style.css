@@ -350,7 +350,7 @@ header .container {
 nav {
 	float: left;
 	padding-left: 91px;
-	margin-top: 30px;
+	margin-top: 70px;
 }
 nav ul li {
 	display: inline-block;
@@ -1287,6 +1287,7 @@ footer {
 	z-index: 999;
 	height: 100%;
 	text-align: center;
+	display: none;
 }
 .wrapper {
 	float: right;
@@ -2659,6 +2660,7 @@ body.no-scroll {
 	opacity: 1;
 	visibility: visible;
 	right: 0;
+	z-index: 999;
 }
 .responsive-mobile-menu.show .responsive-logo,
 .responsive-mobile-menu.show ul {
@@ -2686,7 +2688,7 @@ body.no-scroll {
 	visibility: hidden;
 }
 .responsive-mobile-menu > ul > li {
-	margin-bottom: 20px;
+	margin-bottom: 40px;
 }
 .responsive-mobile-menu ul li a {
 	color: #fff;

@@ -99,7 +99,8 @@
 							</div>
 							<div class="contact-nfo">
 								<h3>Address:</h3>
-								<p>#65 Woodvalley dr,<br>Brampton, Canada</p>
+								<p>Unit 4, 1000 Edgeley Blvd,<br/> Vaughan,
+ON L4K 4V4</p>
 							</div>
 						</div><!--contact-lzt end-->
 						<div class="contact-lzt">
@@ -141,9 +142,7 @@
 	</div>
 </section>
 
-<section class="map-section">
-	<iframe src="https://maps.google.com/maps?hl=en&amp;q=1%20Grafton%20Street%2C%20Dublin%2C%20Ireland+(Crope)&amp;ie=UTF8&amp;t=p&amp;z=7&amp;iwloc=B&amp;output=embed"></iframe>
-</section>
+ 
 
 <!-- <footer>
 			<div class="container">

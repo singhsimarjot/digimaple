@@ -73,7 +73,7 @@
 							<img src="images/icon6.svg" alt="">
 						</div>
 						<h3>App Development</h3>
-
+						<a href="app-dev-details.php" title="" class="btn-default2">read more</a>
 					</div><!--service-col end-->
 				</div>
 				<div class="col-lg-3">
@@ -82,7 +82,7 @@
 							<img src="images/icon7.svg" alt="">
 						</div>
 						<h3>SEO & SMM Optimization</h3>
-
+						<a href="sso-detail.php" title="" class="btn-default2">read more</a>
 					</div><!--service-col end-->
 				</div>
 				<div class="col-lg-3">
@@ -91,6 +91,7 @@
 							<img src="images/icon8.svg" alt="">
 						</div>
 						<h3>Web Development</h3>
+						<a href="web-dev-details.php" title="" class="btn-default2">read more</a>
 
 					</div>
 				</div>
@@ -100,6 +101,7 @@
 							<img src="images/icon5.svg" alt="">
 						</div>
 						<h3>E-commerce Development</h3>
+						<a href="e-com-details.php" title="" class="btn-default2">read more</a>
 
 					</div>
 				</div>

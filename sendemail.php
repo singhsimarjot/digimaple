@@ -12,6 +12,12 @@ if (isset($_POST["name"])) {
 		exit;
 	}
 
+	// Validate email format
+	if (!filter_var($senderEmail, FILTER_VALIDATE_EMAIL)) {
+		echo '<div class="failed">Failed: Invalid email format.</div>';
+		exit;
+	}
+
 	// Headers
 	$to = "hello@digimaple.ca";
 	$subject = 'Contact Us';
@@ -25,8 +31,7 @@ if (isset($_POST["name"])) {
 	// Email Send Function
 	$send_email = mail($to, $subject, $message, $headers);
 
-	echo ($send_email) ? '<div class="success">Email has been sent successfully.</div>' : 'Error: Email did not send.';
+	echo ($send_email) ? '<div class="success">Email has been sent successfully.</div>' : '<div class="failed">Failed: Email did not send.</div>';
 } else {
 	echo '<div class="failed">Failed: Email not Sent.</div>';
 }
-?>

@@ -1550,7 +1550,7 @@ footer {
 	text-align: center;
 }
 .partners-section {
-	padding: 101px 0;
+	padding:70px 0;
 }
 .partners-logo .slick-track {
 	display: flex;
@@ -1560,7 +1560,7 @@ footer {
 }
 .partner-col {
 	height: 100%;
-	margin-right: 20px;
+	margin-right: 70px;
 	padding: 20px;
 	background: #fff;
 	filter: grayscale(1);

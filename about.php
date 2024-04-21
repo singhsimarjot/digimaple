@@ -177,9 +177,7 @@
 			<div class="partner-col">
 				<img src="./images/makro-pro-logo.020dd5ed.svg" alt="">
 			</div><!--partner-col end-->
-			<div class="partner-col" style="background-color: #ffffff;">
-				<img src="/images/distil.svg" alt="">
-			</div><!--partner-col end-->
+			 
 			<div class="partner-col" style="background-color: #ffffff;" >
 				<img src="./images/lineup.svg" alt="">
 			</div><!--partner-col end-->

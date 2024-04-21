@@ -1566,6 +1566,10 @@ footer {
 	filter: grayscale(1);
 	border-radius: 4px;
 }
+img.footerLogo {
+	filter: grayscale(1);
+    width: 110px;
+}
  
 
 /* =================== VIDEO SECTION ================= */

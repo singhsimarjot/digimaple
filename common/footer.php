@@ -5,7 +5,7 @@
 			<div class="row">
 				<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 					<div class="widget widget-about wow fadeInUp" data-wow-delay="300ms">
-						<img src="images/digimaple.png">
+						<img src="images/logo.png" class="footerLogo">
 						<p>Copyright © <?php echo date('Y'); ?> Digimaple.ca</p>
 					</div><!--widget-about end-->
 				</div>
